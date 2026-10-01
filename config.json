@@ -1,0 +1,32 @@
+{
+  "timezone": "Asia/Jakarta",
+  "trending_pages": [""],
+  "since": "daily",
+  "fallback_min_stars": 50,
+  "fallback_days": 7,
+  "ai_topics": [
+    "ai", "artificial-intelligence", "machine-learning", "deep-learning", "llm", "llms",
+    "large-language-models", "generative-ai", "genai", "gpt", "chatgpt", "openai", "claude",
+    "anthropic", "gemini", "llama", "ollama", "rag", "retrieval-augmented-generation",
+    "ai-agent", "ai-agents", "agents", "agent", "agentic-ai", "multi-agent", "mcp",
+    "model-context-protocol", "langchain", "llamaindex", "transformers", "huggingface",
+    "pytorch", "tensorflow", "jax", "computer-vision", "nlp", "natural-language-processing",
+    "speech-recognition", "text-to-speech", "tts", "asr", "diffusion", "stable-diffusion",
+    "image-generation", "video-generation", "multimodal", "vlm", "embeddings", "vector-database",
+    "fine-tuning", "lora", "inference", "llm-inference", "quantization", "reinforcement-learning",
+    "neural-network", "prompt-engineering", "ai-coding", "coding-agent", "copilot", "vibe-coding"
+  ],
+  "ai_keywords": [
+    "\\bai\\b", "\\bllms?\\b", "\\bgpt", "language model", "machine learning", "deep learning",
+    "neural", "\\bagents?\\b", "agentic", "\\brag\\b", "\\bmcp\\b", "model context protocol",
+    "transformer", "diffusion", "embedding", "inference", "fine-tun", "\\blora\\b",
+    "openai", "anthropic", "claude", "gemini", "llama", "ollama", "qwen", "deepseek", "mistral",
+    "copilot", "chatbot", "prompt", "multimodal", "speech", "text-to-", "computer vision"
+  ],
+  "generic_topics": [
+    "ai", "artificial-intelligence", "machine-learning", "deep-learning", "llm", "llms",
+    "python", "typescript", "javascript", "hacktoberfest", "open-source", "awesome", "awesome-list"
+  ],
+  "weekly_top_repos": 10,
+  "weekly_top_topics": 12
+}
