@@ -7,33 +7,35 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 ## Live view
 
 <!-- TRACKER_START -->
-### 🔥 AI repos trending today · 2026-10-02
+### 🔥 AI repos trending today · 2026-10-03
 
-11 of 15 trending repositories are AI-related.
+13 of 17 trending repositories are AI-related.
 
 | # | Repo | Language | ⭐ today | ⭐ total | Topics |
 |--:|---|---|--:|--:|---|
-| 1 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br><sub>Sponsor Star DietrichGebert / ponytail Makes your AI agent think like the laziest senior d…</sub> | JavaScript | 1,194 | 150,936 | `agent-skills` `ai-agents` `claude` `claude-code` |
-| 2 | [mattpocock/skills](https://github.com/mattpocock/skills)<br><sub>Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents direc…</sub> | Shell | 883 | 274,172 | – |
-| 3 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)<br><sub>Star NVIDIA / OpenShell OpenShell is the safe, private runtime for autonomous AI agents.</sub> | Rust | 2,456 | 14,166 | – |
-| 4 | [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk)<br><sub>Star firebase / firebase-ios-sdk Firebase SDK for Apple App Development</sub> | C++ | 112 | 6,898 | `ai` `analytics` `authentication` `crash-reporting` |
-| 5 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig)<br><sub>Star mvschwarz / openrig Build your own network of agents from Claude Code, Codex and Pi: …</sub> | TypeScript | 642 | 3,901 | `agent-harness` `agent-orchestration` `agent-skills` `ai-coding` |
-| 7 | [obra/superpowers](https://github.com/obra/superpowers)<br><sub>Sponsor Star obra / superpowers An agentic skills framework & software development methodo…</sub> | Shell | 455 | 294,119 | `ai` `brainstorming` `coding` `obra` |
-| 8 | [mksglu/context-mode](https://github.com/mksglu/context-mode)<br><sub>Sponsor Star mksglu / context-mode Context window optimization for AI coding agents. Sandb…</sub> | TypeScript | 362 | 24,869 | `antigravity` `claude` `claude-code` `claude-code-hooks` |
-| 9 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)<br><sub>Star heygen-com / hyperframes Write HTML. Render video. Built for agents.</sub> | TypeScript | 627 | 55,506 | `ai` `animation` `ffmpeg` `framework` |
-| 10 | [earendil-works/pi](https://github.com/earendil-works/pi)<br><sub>Star earendil-works / pi AI agent toolkit: unified LLM API, agent loop, TUI, coding agent …</sub> | TypeScript | 298 | 111,455 | – |
-| 11 | [tile-ai/tilelang](https://github.com/tile-ai/tilelang)<br><sub>Star tile-ai / tilelang Domain-specific language designed to streamline the development of…</sub> | Python | 163 | 8,178 | – |
-| 14 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable)<br><sub>Star pbakaus / impeccable The design language that makes your AI harness better at design.</sub> | JavaScript | 495 | 73,881 | – |
+| 1 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)<br><sub>Star Panniantong / Agent-Reach Give your AI agent eyes to see the entire internet. Read & …</sub> | Python | 696 | 89,094 | `agent-infrastructure` `ai-agent` `ai-search` `automation` |
+| 2 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)<br><sub>Sponsor Star JuliusBrussee / caveman 🪨 why use many token when few token do trick. Viral s…</sub> | Go | 209 | 109,225 | `ai` `anthropic` `caveman` `claude` |
+| 3 | [obra/superpowers](https://github.com/obra/superpowers)<br><sub>Sponsor Star obra / superpowers An agentic skills framework & software development methodo…</sub> | Shell | 556 | 294,592 | `ai` `brainstorming` `coding` `obra` |
+| 4 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br><sub>Sponsor Star DietrichGebert / ponytail Makes your AI agent think like the laziest senior d…</sub> | JavaScript | 1,435 | 152,132 | `agent-skills` `ai-agents` `claude` `claude-code` |
+| 5 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable)<br><sub>Star pbakaus / impeccable The design language that makes your AI harness better at design.</sub> | JavaScript | 722 | 74,522 | – |
+| 6 | [mattpocock/skills](https://github.com/mattpocock/skills)<br><sub>Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents direc…</sub> | Shell | 955 | 274,892 | – |
+| 7 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)<br><sub>Star NVIDIA / OpenShell OpenShell is the safe, private runtime for autonomous AI agents.</sub> | Rust | 594 | 14,538 | – |
+| 8 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)<br><sub>Sponsor Star coreyhaines31 / marketingskills Marketing skills for Claude Code and AI agent…</sub> | JavaScript | 140 | 52,514 | `claude` `codex` `marketing` |
+| 9 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)<br><sub>Star heygen-com / hyperframes Write HTML. Render video. Built for agents.</sub> | TypeScript | 580 | 56,022 | `ai` `animation` `ffmpeg` `framework` |
+| 10 | [mksglu/context-mode](https://github.com/mksglu/context-mode)<br><sub>Sponsor Star mksglu / context-mode Context window optimization for AI coding agents. Sandb…</sub> | TypeScript | 282 | 25,114 | `antigravity` `claude` `claude-code` `claude-code-hooks` |
+| 11 | [google/skills](https://github.com/google/skills)<br><sub>Star google / skills Agent Skills for Google products and technologies</sub> | Python | 39 | 20,831 | `google` `googlecloud` `skills` |
+| 13 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)<br><sub>Star colbymchenry / codegraph Pre-indexed code knowledge graph, auto syncs on code changes…</sub> | C | 98 | 73,049 | – |
+| 15 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig)<br><sub>Star mvschwarz / openrig Build your own network of agents from Claude Code, Codex and Pi: …</sub> | TypeScript | 683 | 4,479 | `agent-harness` `agent-orchestration` `agent-skills` `ai-coding` |
 
 ### 📊 This week so far · 2026-W40
 
 #### Summary
 
-- **19** distinct AI repos trended over 2 day(s)
-- AI share of all trending slots: **81%**
-- Dominant language: **TypeScript** (32% of AI repos)
-- Rising topics: `claude-code` (+4), `mcp` (+4), `agent-skills` (+3), `ai-agents` (+3), `claude` (+3)
-- New this week: `claude-code`, `mcp`, `agent-skills`, `claude`, `ai-agents`, `text-to-speech`
+- **23** distinct AI repos trended over 3 day(s)
+- AI share of all trending slots: **80%**
+- Dominant language: **Python** (30% of AI repos)
+- Rising topics: `claude-code` (+6), `claude` (+5), `mcp` (+5), `agent-skills` (+3), `ai-agents` (+3)
+- New this week: `claude-code`, `mcp`, `claude`, `agent-skills`, `cli`, `codex`
 
 #### Languages
 
@@ -41,13 +43,14 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 
 | Language | Repos | Share | Last week |
 |---|--:|--:|--:|
-| TypeScript | 6 | 32% | – |
-| Python | 5 | 26% | – |
-| Rust | 2 | 11% | – |
-| JavaScript | 2 | 11% | – |
-| Shell | 2 | 11% | – |
-| C++ | 1 | 5% | – |
-| C | 1 | 5% | – |
+| Python | 7 | 30% | – |
+| TypeScript | 6 | 26% | – |
+| JavaScript | 3 | 13% | – |
+| Rust | 2 | 9% | – |
+| Shell | 2 | 9% | – |
+| C++ | 1 | 4% | – |
+| C | 1 | 4% | – |
+| Go | 1 | 4% | – |
 
 #### Topics
 
@@ -55,35 +58,35 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 
 | Topic | Repos this week |
 |---|--:|
-| `claude-code` | 4 |
-| `mcp` | 4 |
+| `claude-code` | 6 |
+| `mcp` | 5 |
+| `claude` | 5 |
 | `agent-skills` | 3 |
-| `claude` | 3 |
+| `cli` | 3 |
+| `codex` | 3 |
+| `skills` | 3 |
 | `ai-agents` | 3 |
-| `text-to-speech` | 2 |
 | `tauri` | 2 |
-| `cli` | 2 |
+| `text-to-speech` | 2 |
 | `codex-cli` | 2 |
-| `skills` | 2 |
 | `openclaw` | 2 |
-| `codex` | 2 |
 
 #### Most persistent AI repos
 
 | Repo | Language | Days trending | Stars gained | Total stars |
 |---|---|--:|--:|--:|
-| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | 2 | 3,737 | 14,166 |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 2 | 1,937 | 150,936 |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 2 | 1,759 | 274,172 |
-| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | TypeScript | 2 | 1,266 | 3,901 |
-| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | TypeScript | 2 | 976 | 55,506 |
-| [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | 2 | 452 | 24,869 |
+| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | 3 | 4,331 | 14,538 |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 3 | 3,372 | 152,132 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 3 | 2,714 | 274,892 |
+| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | TypeScript | 3 | 1,949 | 4,479 |
+| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | TypeScript | 3 | 1,556 | 56,022 |
+| [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | 3 | 734 | 25,114 |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | 2 | 1,217 | 74,522 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 2 | 1,011 | 294,592 |
+| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | C | 2 | 216 | 73,049 |
 | [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) | C++ | 2 | 120 | 6,898 |
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 1 | 3,483 | 50,919 |
-| [t8y2/dbx](https://github.com/t8y2/dbx) | Rust | 1 | 1,138 | 23,535 |
-| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | Python | 1 | 1,097 | 38,295 |
 
-_Tracking since 2026-10-01 · 2 day(s) of data · [raw data](data/trending.csv)_
+_Tracking since 2026-10-01 · 3 day(s) of data · [raw data](data/trending.csv)_
 <!-- TRACKER_END -->
 
 ## How it works
