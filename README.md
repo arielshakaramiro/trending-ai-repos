@@ -36,7 +36,7 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 - AI share of all trending slots: **78%**
 - Dominant language: **TypeScript** (31% of AI repos)
 - Rising topics: `claude-code` (+9), `claude` (+7), `mcp` (+6), `ai-agents` (+5), `agent-skills` (+4)
-- New this week: `claude-code`, `claude`, `mcp`, `ai-agents`, `agent-skills`, `codex`
+- New this week: `claude-code`, `claude`, `mcp`, `ai-agents`, `agent-skills`, `skills`
 
 #### Languages
 
@@ -64,8 +64,8 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 | `mcp` | 6 |
 | `ai-agents` | 5 |
 | `agent-skills` | 4 |
-| `codex` | 4 |
 | `skills` | 4 |
+| `codex` | 4 |
 | `cli` | 3 |
 | `antigravity` | 3 |
 | `developer-tools` | 3 |
