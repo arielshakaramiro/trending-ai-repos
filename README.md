@@ -7,87 +7,81 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 ## Live view
 
 <!-- TRACKER_START -->
-### 🔥 AI repos trending today · 2026-10-04
+### 🔥 AI repos trending today · 2026-10-05
 
-14 of 19 trending repositories are AI-related.
+11 of 16 trending repositories are AI-related.
 
 | # | Repo | Language | ⭐ today | ⭐ total | Topics |
 |--:|---|---|--:|--:|---|
-| 1 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br><sub>Sponsor Star DietrichGebert / ponytail Makes your AI agent think like the laziest senior d…</sub> | JavaScript | 1,281 | 153,458 | `agent-skills` `ai-agents` `claude` `claude-code` |
-| 2 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable)<br><sub>Star pbakaus / impeccable The design language that makes your AI harness better at design.</sub> | JavaScript | 699 | 75,339 | – |
-| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC)<br><sub>Sponsor Star affaan-m / ECC The agent harness performance optimization system. Skills, ins…</sub> | JavaScript | 897 | 272,275 | `ai-agents` `anthropic` `claude` `claude-code` |
-| 5 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)<br><sub>Sponsor Star JuliusBrussee / caveman 🪨 why use many token when few token do trick. Viral s…</sub> | Go | 507 | 109,544 | `ai` `anthropic` `caveman` `claude` |
-| 6 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)<br><sub>Star Panniantong / Agent-Reach Give your AI agent eyes to see the entire internet. Read & …</sub> | Python | 1,696 | 89,842 | `agent-infrastructure` `ai-agent` `ai-search` `automation` |
-| 8 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)<br><sub>Sponsor Star thedotmack / claude-mem Persistent Context Across Sessions for Every Agent – …</sub> | TypeScript | 79 | 95,601 | `ai` `ai-agents` `ai-memory` `anthropic` |
-| 9 | [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os)<br><sub>Star cloudflare / cloudflare-os Agent workspace built on Cloudflare Workers for creating d…</sub> | TypeScript | 85 | 10,577 | – |
-| 10 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)<br><sub>Star addyosmani / agent-skills Production-grade engineering skills for AI coding agents.</sub> | JavaScript | 252 | 100,853 | `agent-skills` `antigravity` `claude-code` `codex` |
-| 11 | [obra/superpowers](https://github.com/obra/superpowers)<br><sub>Sponsor Star obra / superpowers An agentic skills framework & software development methodo…</sub> | Shell | 577 | 294,924 | `ai` `brainstorming` `coding` `obra` |
-| 12 | [mattpocock/skills](https://github.com/mattpocock/skills)<br><sub>Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents direc…</sub> | Shell | 751 | 275,384 | – |
-| 13 | [mksglu/context-mode](https://github.com/mksglu/context-mode)<br><sub>Sponsor Star mksglu / context-mode Context window optimization for AI coding agents. Sandb…</sub> | TypeScript | 256 | 25,255 | `antigravity` `claude` `claude-code` `claude-code-hooks` |
-| 14 | [earendil-works/pi](https://github.com/earendil-works/pi)<br><sub>Star earendil-works / pi AI agent toolkit: unified LLM API, agent loop, TUI, coding agent …</sub> | TypeScript | 408 | 112,172 | – |
-| 16 | [anthropics/claude-code](https://github.com/anthropics/claude-code)<br><sub>Star anthropics / claude-code Claude Code is an agentic coding tool that lives in your ter…</sub> | TypeScript | 128 | 149,231 | – |
-| 17 | [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course)<br><sub></sub> | Python | 193 | 9,409 | – |
+| 2 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable)<br><sub>Star pbakaus / impeccable The design language that makes your AI harness better at design.</sub> | JavaScript | 1,171 | 76,630 | – |
+| 3 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)<br><sub>Sponsor Star coreyhaines31 / marketingskills Marketing skills for Claude Code and AI agent…</sub> | JavaScript | 197 | 53,248 | `claude` `codex` `marketing` |
+| 4 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br><sub>Sponsor Star DietrichGebert / ponytail Makes your AI agent think like the laziest senior d…</sub> | JavaScript | 1,894 | 155,347 | `agent-skills` `ai-agents` `claude` `claude-code` |
+| 5 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)<br><sub>Star earthtojake / text-to-cad Give your agent CAD superpowers.</sub> | Python | 83 | 17,030 | `agents` `ai-agents` `cad` `mechanical-engineering` |
+| 6 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)<br><sub>Star Panniantong / Agent-Reach Give your AI agent eyes to see the entire internet. Read & …</sub> | Python | 980 | 91,270 | `agent-infrastructure` `ai-agent` `ai-search` `automation` |
+| 8 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)<br><sub>Sponsor Star calesthio / OpenMontage World's first open-source, agentic video production s…</sub> | Python | 245 | 63,442 | `agent` `agentic-ai` `ai` `claude` |
+| 11 | [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude)<br><sub>Star michael-denyer / pstack-claude Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Ag…</sub> | JavaScript | 232 | 1,248 | `agent-plugin` `agent-skills` `agentic-ai` `anthropic` |
+| 12 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)<br><sub>Star addyosmani / agent-skills Production-grade engineering skills for AI coding agents.</sub> | JavaScript | 336 | 101,342 | `agent-skills` `antigravity` `claude-code` `codex` |
+| 13 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)<br><sub>Sponsor Star thedotmack / claude-mem Persistent Context Across Sessions for Every Agent – …</sub> | TypeScript | 628 | 96,297 | `ai` `ai-agents` `ai-memory` `anthropic` |
+| 14 | [garrytan/gstack](https://github.com/garrytan/gstack)<br><sub>Star garrytan / gstack Use Garry Tan's exact Claude Code setup: 23 opinionated tools that …</sub> | TypeScript | 125 | 135,255 | – |
+| 16 | [antirez/ds4](https://github.com/antirez/ds4)<br><sub>Sponsor Star antirez / ds4 DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA…</sub> | C | 211 | 23,510 | – |
 
-### 📊 This week so far · 2026-W40
+### 📊 This week so far · 2026-W41
 
 #### Summary
 
-- **29** distinct AI repos trended over 4 day(s)
-- AI share of all trending slots: **78%**
-- Dominant language: **TypeScript** (31% of AI repos)
-- Rising topics: `claude-code` (+9), `claude` (+7), `mcp` (+6), `ai-agents` (+5), `agent-skills` (+4)
-- New this week: `claude-code`, `claude`, `mcp`, `ai-agents`, `agent-skills`, `skills`
+- **11** distinct AI repos trended over 1 day(s) (last week: 29)
+- AI share of all trending slots: **69%** (-9 pts vs last week)
+- Dominant language: **JavaScript** (45% of AI repos)
+- Rising topics: `agentic-ai` (+1), `claude-code-plugin` (+1), `claude-skills` (+1)
 
 #### Languages
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="charts/2026-W40-languages-dark.png"><img alt="Languages of trending AI repos" src="charts/2026-W40-languages.png"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="charts/2026-W41-languages-dark.png"><img alt="Languages of trending AI repos" src="charts/2026-W41-languages.png"></picture>
 
 | Language | Repos | Share | Last week |
 |---|--:|--:|--:|
-| TypeScript | 9 | 31% | – |
-| Python | 8 | 28% | – |
-| JavaScript | 5 | 17% | – |
-| Rust | 2 | 7% | – |
-| Shell | 2 | 7% | – |
-| C++ | 1 | 3% | – |
-| C | 1 | 3% | – |
-| Go | 1 | 3% | – |
+| JavaScript | 5 | 45% | 5 |
+| Python | 3 | 27% | 8 |
+| TypeScript | 2 | 18% | 9 |
+| C | 1 | 9% | 1 |
 
 #### Topics
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="charts/2026-W40-topics-dark.png"><img alt="Topic movers" src="charts/2026-W40-topics.png"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="charts/2026-W41-topics-dark.png"><img alt="Topic movers" src="charts/2026-W41-topics.png"></picture>
 
 | Topic | Repos this week |
 |---|--:|
-| `claude-code` | 9 |
-| `claude` | 7 |
-| `mcp` | 6 |
-| `ai-agents` | 5 |
-| `agent-skills` | 4 |
-| `skills` | 4 |
-| `codex` | 4 |
-| `cli` | 3 |
-| `antigravity` | 3 |
-| `developer-tools` | 3 |
+| `claude` | 5 |
+| `claude-code` | 5 |
+| `codex` | 3 |
+| `agent-skills` | 3 |
+| `ai-agents` | 3 |
+| `claude-code-plugin` | 3 |
 | `cursor` | 3 |
-| `anthropic` | 3 |
+| `developer-tools` | 2 |
+| `agentic-ai` | 2 |
+| `claude-skills` | 2 |
+| `anthropic` | 2 |
+| `marketing` | 1 |
 
 #### Most persistent AI repos
 
 | Repo | Language | Days trending | Stars gained | Total stars |
 |---|---|--:|--:|--:|
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 4 | 4,653 | 153,458 |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 4 | 3,465 | 275,384 |
-| [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | 4 | 990 | 25,255 |
-| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | 3 | 4,331 | 14,538 |
-| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | TypeScript | 3 | 1,949 | 4,479 |
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | 3 | 1,916 | 75,339 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 3 | 1,588 | 294,924 |
-| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | TypeScript | 3 | 1,556 | 56,022 |
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 2 | 2,392 | 89,842 |
-| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | Go | 2 | 716 | 109,544 |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 1 | 1,894 | 155,347 |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | 1 | 1,171 | 76,630 |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 1 | 980 | 91,270 |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 1 | 628 | 96,297 |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 1 | 336 | 101,342 |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 1 | 245 | 63,442 |
+| [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) | JavaScript | 1 | 232 | 1,248 |
+| [antirez/ds4](https://github.com/antirez/ds4) | C | 1 | 211 | 23,510 |
+| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | JavaScript | 1 | 197 | 53,248 |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | TypeScript | 1 | 125 | 135,255 |
 
-_Tracking since 2026-10-01 · 4 day(s) of data · [raw data](data/trending.csv)_
+➡️ Last full weekly analysis: [2026-W40](reports/weekly/2026-W40.md) · [all reports](reports/weekly)
+
+_Tracking since 2026-10-01 · 5 day(s) of data · [raw data](data/trending.csv)_
 <!-- TRACKER_END -->
 
 ## How it works
