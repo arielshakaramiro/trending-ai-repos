@@ -7,31 +7,27 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 ## Live view
 
 <!-- TRACKER_START -->
-### 🔥 AI repos trending today · 2026-10-05
+### 🔥 AI repos trending today · 2026-10-06
 
-11 of 16 trending repositories are AI-related.
+7 of 13 trending repositories are AI-related.
 
 | # | Repo | Language | ⭐ today | ⭐ total | Topics |
 |--:|---|---|--:|--:|---|
-| 2 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable)<br><sub>Star pbakaus / impeccable The design language that makes your AI harness better at design.</sub> | JavaScript | 1,171 | 76,630 | – |
-| 3 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)<br><sub>Sponsor Star coreyhaines31 / marketingskills Marketing skills for Claude Code and AI agent…</sub> | JavaScript | 197 | 53,248 | `claude` `codex` `marketing` |
-| 4 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br><sub>Sponsor Star DietrichGebert / ponytail Makes your AI agent think like the laziest senior d…</sub> | JavaScript | 1,894 | 155,347 | `agent-skills` `ai-agents` `claude` `claude-code` |
-| 5 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)<br><sub>Star earthtojake / text-to-cad Give your agent CAD superpowers.</sub> | Python | 83 | 17,030 | `agents` `ai-agents` `cad` `mechanical-engineering` |
-| 6 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)<br><sub>Star Panniantong / Agent-Reach Give your AI agent eyes to see the entire internet. Read & …</sub> | Python | 980 | 91,270 | `agent-infrastructure` `ai-agent` `ai-search` `automation` |
-| 8 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)<br><sub>Sponsor Star calesthio / OpenMontage World's first open-source, agentic video production s…</sub> | Python | 245 | 63,442 | `agent` `agentic-ai` `ai` `claude` |
-| 11 | [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude)<br><sub>Star michael-denyer / pstack-claude Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Ag…</sub> | JavaScript | 232 | 1,248 | `agent-plugin` `agent-skills` `agentic-ai` `anthropic` |
-| 12 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)<br><sub>Star addyosmani / agent-skills Production-grade engineering skills for AI coding agents.</sub> | JavaScript | 336 | 101,342 | `agent-skills` `antigravity` `claude-code` `codex` |
-| 13 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)<br><sub>Sponsor Star thedotmack / claude-mem Persistent Context Across Sessions for Every Agent – …</sub> | TypeScript | 628 | 96,297 | `ai` `ai-agents` `ai-memory` `anthropic` |
-| 14 | [garrytan/gstack](https://github.com/garrytan/gstack)<br><sub>Star garrytan / gstack Use Garry Tan's exact Claude Code setup: 23 opinionated tools that …</sub> | TypeScript | 125 | 135,255 | – |
-| 16 | [antirez/ds4](https://github.com/antirez/ds4)<br><sub>Sponsor Star antirez / ds4 DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA…</sub> | C | 211 | 23,510 | – |
+| 2 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)<br><sub>Sponsor Star thedotmack / claude-mem Persistent Context Across Sessions for Every Agent – …</sub> | TypeScript | 534 | 96,796 | `ai` `ai-agents` `ai-memory` `anthropic` |
+| 3 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)<br><sub>Star earthtojake / text-to-cad Give your agent CAD superpowers.</sub> | Python | 437 | 17,624 | `agents` `ai-agents` `cad` `mechanical-engineering` |
+| 6 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)<br><sub>Star Panniantong / Agent-Reach Give your AI agent eyes to see the entire internet. Read & …</sub> | Python | 1,155 | 92,214 | `agent-infrastructure` `ai-agent` `ai-search` `automation` |
+| 7 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)<br><sub>Sponsor Star calesthio / OpenMontage World's first open-source, agentic video production s…</sub> | Python | 742 | 64,344 | `agent` `agentic-ai` `ai` `claude` |
+| 9 | [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)<br><sub>Sponsor Star DuarteSantos8 / openGym Self-hosted gym & body-weight tracker — plan routines…</sub> | JavaScript | 1,433 | 4,676 | `bodyweight` `docker` `fitness` `fitness-tracker` |
+| 10 | [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os)<br><sub>Star cloudflare / cloudflare-os Agent workspace built on Cloudflare Workers for creating d…</sub> | TypeScript | 101 | 11,127 | – |
+| 12 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)<br><sub>Sponsor Star msitarzewski / agency-agents A complete AI agency at your fingertips - From f…</sub> | Shell | 744 | 157,471 | – |
 
 ### 📊 This week so far · 2026-W41
 
 #### Summary
 
-- **11** distinct AI repos trended over 1 day(s) (last week: 29)
-- AI share of all trending slots: **69%** (-9 pts vs last week)
-- Dominant language: **JavaScript** (45% of AI repos)
+- **14** distinct AI repos trended over 2 day(s) (last week: 29)
+- AI share of all trending slots: **62%** (-16 pts vs last week)
+- Dominant language: **JavaScript** (43% of AI repos)
 - Rising topics: `agentic-ai` (+1), `claude-code-plugin` (+1), `claude-skills` (+1)
 
 #### Languages
@@ -40,10 +36,11 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 
 | Language | Repos | Share | Last week |
 |---|--:|--:|--:|
-| JavaScript | 5 | 45% | 5 |
-| Python | 3 | 27% | 8 |
-| TypeScript | 2 | 18% | 9 |
-| C | 1 | 9% | 1 |
+| JavaScript | 6 | 43% | 5 |
+| Python | 3 | 21% | 8 |
+| TypeScript | 3 | 21% | 9 |
+| C | 1 | 7% | 1 |
+| Shell | 1 | 7% | 2 |
 
 #### Topics
 
@@ -54,34 +51,34 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 | `claude` | 5 |
 | `claude-code` | 5 |
 | `codex` | 3 |
-| `agent-skills` | 3 |
 | `ai-agents` | 3 |
 | `claude-code-plugin` | 3 |
+| `agent-skills` | 3 |
 | `cursor` | 3 |
 | `developer-tools` | 2 |
+| `mcp` | 2 |
 | `agentic-ai` | 2 |
-| `claude-skills` | 2 |
 | `anthropic` | 2 |
-| `marketing` | 1 |
+| `claude-skills` | 2 |
 
 #### Most persistent AI repos
 
 | Repo | Language | Days trending | Stars gained | Total stars |
 |---|---|--:|--:|--:|
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 2 | 2,135 | 92,214 |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 2 | 1,162 | 96,796 |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 2 | 987 | 64,344 |
+| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | Python | 2 | 520 | 17,624 |
 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 1 | 1,894 | 155,347 |
+| [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) | JavaScript | 1 | 1,433 | 4,676 |
 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | 1 | 1,171 | 76,630 |
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 1 | 980 | 91,270 |
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 1 | 628 | 96,297 |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 1 | 744 | 157,471 |
 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 1 | 336 | 101,342 |
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 1 | 245 | 63,442 |
 | [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) | JavaScript | 1 | 232 | 1,248 |
-| [antirez/ds4](https://github.com/antirez/ds4) | C | 1 | 211 | 23,510 |
-| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | JavaScript | 1 | 197 | 53,248 |
-| [garrytan/gstack](https://github.com/garrytan/gstack) | TypeScript | 1 | 125 | 135,255 |
 
 ➡️ Last full weekly analysis: [2026-W40](reports/weekly/2026-W40.md) · [all reports](reports/weekly)
 
-_Tracking since 2026-10-01 · 5 day(s) of data · [raw data](data/trending.csv)_
+_Tracking since 2026-10-01 · 6 day(s) of data · [raw data](data/trending.csv)_
 <!-- TRACKER_END -->
 
 ## How it works
