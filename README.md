@@ -7,28 +7,31 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 ## Live view
 
 <!-- TRACKER_START -->
-### 🔥 AI repos trending today · 2026-10-06
+### 🔥 AI repos trending today · 2026-10-07
 
-7 of 13 trending repositories are AI-related.
+10 of 12 trending repositories are AI-related.
 
 | # | Repo | Language | ⭐ today | ⭐ total | Topics |
 |--:|---|---|--:|--:|---|
-| 2 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)<br><sub>Sponsor Star thedotmack / claude-mem Persistent Context Across Sessions for Every Agent – …</sub> | TypeScript | 534 | 96,796 | `ai` `ai-agents` `ai-memory` `anthropic` |
-| 3 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)<br><sub>Star earthtojake / text-to-cad Give your agent CAD superpowers.</sub> | Python | 437 | 17,624 | `agents` `ai-agents` `cad` `mechanical-engineering` |
-| 6 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)<br><sub>Star Panniantong / Agent-Reach Give your AI agent eyes to see the entire internet. Read & …</sub> | Python | 1,155 | 92,214 | `agent-infrastructure` `ai-agent` `ai-search` `automation` |
-| 7 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)<br><sub>Sponsor Star calesthio / OpenMontage World's first open-source, agentic video production s…</sub> | Python | 742 | 64,344 | `agent` `agentic-ai` `ai` `claude` |
-| 9 | [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)<br><sub>Sponsor Star DuarteSantos8 / openGym Self-hosted gym & body-weight tracker — plan routines…</sub> | JavaScript | 1,433 | 4,676 | `bodyweight` `docker` `fitness` `fitness-tracker` |
-| 10 | [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os)<br><sub>Star cloudflare / cloudflare-os Agent workspace built on Cloudflare Workers for creating d…</sub> | TypeScript | 101 | 11,127 | – |
-| 12 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)<br><sub>Sponsor Star msitarzewski / agency-agents A complete AI agency at your fingertips - From f…</sub> | Shell | 744 | 157,471 | – |
+| 2 | [mattpocock/skills](https://github.com/mattpocock/skills)<br><sub>Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents direc…</sub> | Shell | 889 | 278,580 | – |
+| 3 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)<br><sub>Star earthtojake / text-to-cad Give your agent CAD superpowers.</sub> | Python | 619 | 18,162 | `agents` `ai-agents` `cad` `mechanical-engineering` |
+| 5 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable)<br><sub>Star pbakaus / impeccable The design language that makes your AI harness better at design.</sub> | JavaScript | 616 | 77,943 | – |
+| 6 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)<br><sub>Sponsor Star thedotmack / claude-mem Persistent Context Across Sessions for Every Agent – …</sub> | TypeScript | 534 | 97,336 | `ai` `ai-agents` `ai-memory` `anthropic` |
+| 7 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)<br><sub>Star ayghri / i-have-adhd A skill to stop your coding agent from burying the answer. ADHD-…</sub> | Python | 326 | 54,604 | `adhd` `claude-` `claude-code-plugin` `claude-skills` |
+| 8 | [morluto/rea](https://github.com/morluto/rea)<br><sub>Star morluto / rea Reverse engineer anything with agents, from app behavior down to native…</sub> | TypeScript | 2,956 | 10,887 | `agent-skills` `ai-agent-tools` `ai-agents` `binary-analysis` |
+| 9 | [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM)<br><sub>Star deepseek-ai / DeepGEMM DeepGEMM: clean and efficient BLAS kernel library on GPU</sub> | Cuda | 199 | 8,804 | – |
+| 10 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)<br><sub>Sponsor Star msitarzewski / agency-agents A complete AI agency at your fingertips - From f…</sub> | Shell | 623 | 158,021 | – |
+| 11 | [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)<br><sub>Sponsor Star DuarteSantos8 / openGym Self-hosted gym & body-weight tracker — plan routines…</sub> | JavaScript | 1,419 | 6,132 | `bodyweight` `docker` `fitness` `fitness-tracker` |
+| 12 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)<br><sub>Sponsor Star cathrynlavery / diagram-design Editorial diagram design for Claude Code, Code…</sub> | HTML | 228 | 44,303 | `agent-skills` `claude-code` `codex` `data-visualization` |
 
 ### 📊 This week so far · 2026-W41
 
 #### Summary
 
-- **14** distinct AI repos trended over 2 day(s) (last week: 29)
-- AI share of all trending slots: **62%** (-16 pts vs last week)
-- Dominant language: **JavaScript** (43% of AI repos)
-- Rising topics: `agentic-ai` (+1), `claude-code-plugin` (+1), `claude-skills` (+1)
+- **19** distinct AI repos trended over 3 day(s) (last week: 29)
+- AI share of all trending slots: **68%** (-10 pts vs last week)
+- Dominant language: **JavaScript** (32% of AI repos)
+- Rising topics: `claude-code-plugin` (+2), `claude-skills` (+2), `agent-skills` (+1), `agentic-ai` (+1)
 
 #### Languages
 
@@ -36,11 +39,13 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 
 | Language | Repos | Share | Last week |
 |---|--:|--:|--:|
-| JavaScript | 6 | 43% | 5 |
-| Python | 3 | 21% | 8 |
-| TypeScript | 3 | 21% | 9 |
-| C | 1 | 7% | 1 |
-| Shell | 1 | 7% | 2 |
+| JavaScript | 6 | 32% | 5 |
+| Python | 4 | 21% | 8 |
+| TypeScript | 4 | 21% | 9 |
+| Shell | 2 | 11% | 2 |
+| C | 1 | 5% | 1 |
+| Cuda | 1 | 5% | 0 |
+| HTML | 1 | 5% | 0 |
 
 #### Topics
 
@@ -48,37 +53,37 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 
 | Topic | Repos this week |
 |---|--:|
+| `claude-code` | 6 |
 | `claude` | 5 |
-| `claude-code` | 5 |
-| `codex` | 3 |
-| `ai-agents` | 3 |
-| `claude-code-plugin` | 3 |
-| `agent-skills` | 3 |
+| `agent-skills` | 5 |
+| `codex` | 4 |
+| `ai-agents` | 4 |
+| `claude-code-plugin` | 4 |
+| `developer-tools` | 3 |
 | `cursor` | 3 |
-| `developer-tools` | 2 |
-| `mcp` | 2 |
+| `mcp` | 3 |
+| `claude-skills` | 3 |
+| `cli` | 2 |
 | `agentic-ai` | 2 |
-| `anthropic` | 2 |
-| `claude-skills` | 2 |
 
 #### Most persistent AI repos
 
 | Repo | Language | Days trending | Stars gained | Total stars |
 |---|---|--:|--:|--:|
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 3 | 1,696 | 97,336 |
+| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | Python | 3 | 1,139 | 18,162 |
+| [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) | JavaScript | 2 | 2,852 | 6,132 |
 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 2 | 2,135 | 92,214 |
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 2 | 1,162 | 96,796 |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | 2 | 1,787 | 77,943 |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 2 | 1,367 | 158,021 |
 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 2 | 987 | 64,344 |
-| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | Python | 2 | 520 | 17,624 |
+| [morluto/rea](https://github.com/morluto/rea) | TypeScript | 1 | 2,956 | 10,887 |
 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 1 | 1,894 | 155,347 |
-| [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) | JavaScript | 1 | 1,433 | 4,676 |
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | 1 | 1,171 | 76,630 |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 1 | 744 | 157,471 |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 1 | 336 | 101,342 |
-| [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) | JavaScript | 1 | 232 | 1,248 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 1 | 889 | 278,580 |
 
 ➡️ Last full weekly analysis: [2026-W40](reports/weekly/2026-W40.md) · [all reports](reports/weekly)
 
-_Tracking since 2026-10-01 · 6 day(s) of data · [raw data](data/trending.csv)_
+_Tracking since 2026-10-01 · 7 day(s) of data · [raw data](data/trending.csv)_
 <!-- TRACKER_END -->
 
 ## How it works
