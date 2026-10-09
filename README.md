@@ -7,32 +7,28 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 ## Live view
 
 <!-- TRACKER_START -->
-### 🔥 AI repos trending today · 2026-10-08
+### 🔥 AI repos trending today · 2026-10-09
 
-10 of 13 trending repositories are AI-related.
+6 of 9 trending repositories are AI-related.
 
 | # | Repo | Language | ⭐ today | ⭐ total | Topics |
 |--:|---|---|--:|--:|---|
-| 1 | [morluto/rea](https://github.com/morluto/rea)<br><sub>Star morluto / rea Reverse engineer anything with agents, from app behavior down to native…</sub> | TypeScript | 4,655 | 18,266 | `agent-skills` `ai-agent-tools` `ai-agents` `binary-analysis` |
-| 2 | [mattpocock/skills](https://github.com/mattpocock/skills)<br><sub>Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents direc…</sub> | Shell | 1,403 | 280,268 | – |
-| 4 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)<br><sub>Star ayghri / i-have-adhd A skill to stop your coding agent from burying the answer. ADHD-…</sub> | Python | 619 | 55,474 | `adhd` `claude-` `claude-code-plugin` `claude-skills` |
-| 5 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)<br><sub>Sponsor Star cathrynlavery / diagram-design Editorial diagram design for Claude Code, Code…</sub> | HTML | 825 | 45,423 | `agent-skills` `claude-code` `codex` `data-visualization` |
-| 6 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)<br><sub>Star addyosmani / agent-skills Production-grade engineering skills for AI coding agents.</sub> | JavaScript | 677 | 103,092 | `agent-skills` `antigravity` `claude-code` `codex` |
-| 8 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)<br><sub>Sponsor Star thedotmack / claude-mem Persistent Context Across Sessions for Every Agent – …</sub> | TypeScript | 578 | 97,960 | `ai` `ai-agents` `ai-memory` `anthropic` |
-| 9 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)<br><sub>Star manaflow-ai / cmux Open source Ghostty-based macOS terminal with vertical tabs and no…</sub> | Swift | 44 | 27,973 | `amp` `claude-code` `cli` `codex` |
-| 10 | [trycua/cua](https://github.com/trycua/cua)<br><sub>Sponsor Star trycua / cua Scale computer-use 2.0 with open-source drivers, cross-OS fleets…</sub> | Rust | 228 | 28,926 | `agent` `ai-agent` `apple` `computer-use` |
-| 11 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)<br><sub>Star cloudflare / security-audit-skill A coding-agent skill for multi-phase security audit…</sub> | JavaScript | 576 | 26,316 | – |
-| 13 | [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)<br><sub>Sponsor Star DuarteSantos8 / openGym Self-hosted gym & body-weight tracker — plan routines…</sub> | JavaScript | 1,493 | 7,507 | `bodyweight` `docker` `fitness` `fitness-tracker` |
+| 2 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)<br><sub>Sponsor Star cathrynlavery / diagram-design Editorial diagram design for Claude Code, Code…</sub> | HTML | 1,160 | 47,069 | `agent-skills` `claude-code` `codex` `data-visualization` |
+| 3 | [morluto/rea](https://github.com/morluto/rea)<br><sub>Star morluto / rea Reverse engineer anything with agents, from app behavior down to native…</sub> | TypeScript | 7,738 | 32,394 | `agent-skills` `ai-agents` `binary-analysis` `claude-code` |
+| 4 | [mattpocock/skills](https://github.com/mattpocock/skills)<br><sub>Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents direc…</sub> | Shell | 1,774 | 281,720 | – |
+| 5 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)<br><sub>Sponsor Star thedotmack / claude-mem Persistent Context Across Sessions for Every Agent – …</sub> | TypeScript | 670 | 98,772 | `ai` `ai-agents` `ai-memory` `anthropic` |
+| 7 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)<br><sub>Star anthropics / knowledge-work-plugins Open source repository of plugins primarily inten…</sub> | Python | 392 | 27,894 | – |
+| 8 | [storytold/artcraft](https://github.com/storytold/artcraft)<br><sub>Star storytold / artcraft ArtCraft is an intentional crafting engine for artists, designer…</sub> | Rust | 2,103 | 9,235 | `3d-graphics` `ai` `aivideo` `filmmaking` |
 
 ### 📊 This week so far · 2026-W41
 
 #### Summary
 
-- **22** distinct AI repos trended over 4 day(s) (last week: 29)
+- **24** distinct AI repos trended over 5 day(s) (last week: 29)
 - AI share of all trending slots: **70%** (-8 pts vs last week)
-- Dominant language: **JavaScript** (32% of AI repos)
-- Rising topics: `agent` (+2), `claude-code-plugin` (+2), `claude-skills` (+2), `coding-agents` (+2), `macos` (+2)
-- New this week: `agent`, `coding-agents`, `macos`
+- Dominant language: **JavaScript** (29% of AI repos)
+- Rising topics: `agent` (+2), `claude-code-plugin` (+2), `claude-skills` (+2), `codex` (+2), `macos` (+2)
+- New this week: `agent`, `macos`
 
 #### Languages
 
@@ -40,15 +36,15 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 
 | Language | Repos | Share | Last week |
 |---|--:|--:|--:|
-| JavaScript | 7 | 32% | 5 |
-| Python | 4 | 18% | 8 |
-| TypeScript | 4 | 18% | 9 |
-| Shell | 2 | 9% | 2 |
-| C | 1 | 5% | 1 |
-| Cuda | 1 | 5% | 0 |
-| HTML | 1 | 5% | 0 |
-| Swift | 1 | 5% | 0 |
-| Rust | 1 | 5% | 2 |
+| JavaScript | 7 | 29% | 5 |
+| Python | 5 | 21% | 8 |
+| TypeScript | 4 | 17% | 9 |
+| Shell | 2 | 8% | 2 |
+| Rust | 2 | 8% | 2 |
+| C | 1 | 4% | 1 |
+| Cuda | 1 | 4% | 0 |
+| HTML | 1 | 4% | 0 |
+| Swift | 1 | 4% | 0 |
 
 #### Topics
 
@@ -56,16 +52,16 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 
 | Topic | Repos this week |
 |---|--:|
-| `claude-code` | 7 |
-| `codex` | 5 |
+| `claude-code` | 8 |
+| `codex` | 6 |
 | `claude` | 5 |
 | `agent-skills` | 5 |
-| `claude-code-plugin` | 4 |
 | `ai-agents` | 4 |
-| `developer-tools` | 3 |
+| `developer-tools` | 4 |
+| `claude-code-plugin` | 4 |
 | `mcp` | 3 |
-| `cli` | 3 |
 | `cursor` | 3 |
+| `cli` | 3 |
 | `claude-skills` | 3 |
 | `ai-agent` | 2 |
 
@@ -73,20 +69,20 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 
 | Repo | Language | Days trending | Stars gained | Total stars |
 |---|---|--:|--:|--:|
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 4 | 2,274 | 97,960 |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 5 | 2,944 | 98,772 |
+| [morluto/rea](https://github.com/morluto/rea) | TypeScript | 3 | 15,349 | 32,394 |
 | [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) | JavaScript | 3 | 4,345 | 7,507 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 3 | 4,066 | 281,720 |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 3 | 2,213 | 47,069 |
 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | Python | 3 | 1,139 | 18,162 |
-| [morluto/rea](https://github.com/morluto/rea) | TypeScript | 2 | 7,611 | 18,266 |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 2 | 2,292 | 280,268 |
 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 2 | 2,135 | 92,214 |
 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | 2 | 1,787 | 77,943 |
 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 2 | 1,367 | 158,021 |
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 2 | 1,053 | 45,423 |
 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 2 | 1,013 | 103,092 |
 
 ➡️ Last full weekly analysis: [2026-W40](reports/weekly/2026-W40.md) · [all reports](reports/weekly)
 
-_Tracking since 2026-10-01 · 8 day(s) of data · [raw data](data/trending.csv)_
+_Tracking since 2026-10-01 · 9 day(s) of data · [raw data](data/trending.csv)_
 <!-- TRACKER_END -->
 
 ## How it works
