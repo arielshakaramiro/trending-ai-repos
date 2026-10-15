@@ -7,27 +7,28 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 ## Live view
 
 <!-- TRACKER_START -->
-### 🔥 AI repos trending today · 2026-10-14
+### 🔥 AI repos trending today · 2026-10-15
 
-7 of 9 trending repositories are AI-related.
+7 of 12 trending repositories are AI-related.
 
 | # | Repo | Language | ⭐ today | ⭐ total | Topics |
 |--:|---|---|--:|--:|---|
-| 1 | [morluto/rea](https://github.com/morluto/rea)<br><sub>Star morluto / rea Reverse engineer anything with agents, from app behavior down to native…</sub> | TypeScript | 54,679 | 219,289 | `agent-skills` `ai-agents` `binary-analysis` `claude-code` |
-| 3 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)<br><sub>Star debpalash / VoiceStudio VoiceStudio is the open-source, fully-local ElevenLabs altern…</sub> | Python | 1,748 | 64,276 | `ai` `audiobook` `cuda` `dubbing` |
-| 4 | [mksglu/context-mode](https://github.com/mksglu/context-mode)<br><sub>Sponsor Star mksglu / context-mode Context window optimization for AI coding agents. Sandb…</sub> | TypeScript | 969 | 28,522 | `antigravity` `claude` `claude-code` `claude-code-hooks` |
-| 5 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)<br><sub>Sponsor Star cathrynlavery / diagram-design Editorial diagram design for Claude Code, Code…</sub> | HTML | 1,815 | 54,665 | `agent-skills` `claude-code` `codex` `data-visualization` |
-| 6 | [vercel-labs/skills](https://github.com/vercel-labs/skills)<br><sub>Star vercel-labs / skills The open agent skills tool - npx skills</sub> | TypeScript | 190 | 34,729 | – |
-| 7 | [lyogavin/airllm](https://github.com/lyogavin/airllm)<br><sub>Sponsor Star lyogavin / airllm AirLLM 2.8T LLM inference with single 4GB GPU</sub> | Jupyter Notebook | 1,001 | 38,499 | `chinese-llm` `chinese-nlp` `finetune` `generative-ai` |
-| 8 | [storytold/artcraft](https://github.com/storytold/artcraft)<br><sub>Star storytold / artcraft ArtCraft is an intentional crafting engine for artists, designer…</sub> | Rust | 4,081 | 26,521 | `3d-graphics` `ai` `aivideo` `filmmaking` |
+| 1 | [morluto/rea](https://github.com/morluto/rea)<br><sub>Star morluto / rea Reverse engineer anything with agents, from app behavior down to native…</sub> | TypeScript | 41,034 | 251,853 | `agent-skills` `ai-agents` `binary-analysis` `claude-code` |
+| 2 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)<br><sub>Star debpalash / VoiceStudio VoiceStudio is the open-source, fully-local ElevenLabs altern…</sub> | Python | 3,538 | 67,236 | `ai` `audiobook` `cuda` `dubbing` |
+| 3 | [mksglu/context-mode](https://github.com/mksglu/context-mode)<br><sub>Sponsor Star mksglu / context-mode Context window optimization for AI coding agents. Sandb…</sub> | TypeScript | 947 | 29,380 | `antigravity` `claude` `claude-code` `claude-code-hooks` |
+| 5 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)<br><sub>Star K-Dense-AI / scientific-agent-skills Turn any AI agent into an AI Scientist. The #1 A…</sub> | Python | 163 | 49,676 | `agent-skills` `ai-scientist` `bioinformatics` `chemoinformatics` |
+| 6 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)<br><sub>Star HKUDS / CLI-Anything "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: htt…</sub> | Python | 103 | 52,755 | – |
+| 7 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi)<br><sub>Star ifixai-ai / iFixAi Independent Auditing of AI Agents. Run by human or the agent itsel…</sub> | Python | 2,109 | 27,864 | `agent-evaluation` `ai` `ai-alignment` `ai-evaluation` |
+| 8 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)<br><sub>Star vxcontrol / pentagi Fully autonomous AI Agents system capable of performing complex p…</sub> | Go | 1,025 | 29,961 | `ai-agents` `ai-security-tool` `anthropic` `autonomous-agents` |
 
 ### 📊 This week so far · 2026-W42
 
 #### Summary
 
-- **11** distinct AI repos trended over 3 day(s) (last week: 34)
-- AI share of all trending slots: **77%** (+2 pts vs last week)
-- Dominant language: **Python** (36% of AI repos)
+- **15** distinct AI repos trended over 4 day(s) (last week: 34)
+- AI share of all trending slots: **71%** (-4 pts vs last week)
+- Dominant language: **Python** (47% of AI repos)
+- Rising topics: `self-hosted` (+1)
 
 #### Languages
 
@@ -35,12 +36,13 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 
 | Language | Repos | Share | Last week |
 |---|--:|--:|--:|
-| Python | 4 | 36% | 10 |
-| TypeScript | 3 | 27% | 5 |
-| Rust | 1 | 9% | 2 |
-| HTML | 1 | 9% | 1 |
-| Jupyter Notebook | 1 | 9% | 0 |
-| C++ | 1 | 9% | 1 |
+| Python | 7 | 47% | 10 |
+| TypeScript | 3 | 20% | 5 |
+| Rust | 1 | 7% | 2 |
+| HTML | 1 | 7% | 1 |
+| Jupyter Notebook | 1 | 7% | 0 |
+| C++ | 1 | 7% | 1 |
+| Go | 1 | 7% | 1 |
 
 #### Topics
 
@@ -48,37 +50,37 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 
 | Topic | Repos this week |
 |---|--:|
-| `claude-code` | 3 |
 | `mcp` | 3 |
+| `agent-skills` | 3 |
 | `codex` | 3 |
-| `agent-skills` | 2 |
-| `developer-tools` | 1 |
-| `reverse-engineering` | 1 |
-| `ctf` | 1 |
+| `claude-code` | 3 |
+| `ai-agents` | 2 |
+| `cli` | 2 |
+| `claude` | 2 |
+| `openai` | 2 |
+| `self-hosted` | 2 |
 | `dsh-plugin` | 1 |
-| `static-analysis` | 1 |
-| `ghidra` | 1 |
-| `hopper` | 1 |
-| `model-context-protocol` | 1 |
+| `cordis` | 1 |
+| `decompiler` | 1 |
 
 #### Most persistent AI repos
 
 | Repo | Language | Days trending | Stars gained | Total stars |
 |---|---|--:|--:|--:|
-| [morluto/rea](https://github.com/morluto/rea) | TypeScript | 3 | 125,605 | 219,289 |
+| [morluto/rea](https://github.com/morluto/rea) | TypeScript | 4 | 166,639 | 251,853 |
 | [storytold/artcraft](https://github.com/storytold/artcraft) | Rust | 3 | 11,133 | 26,521 |
 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 3 | 4,979 | 54,665 |
 | [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | 3 | 2,428 | 38,499 |
-| [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | 2 | 1,215 | 28,522 |
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 1 | 1,748 | 64,276 |
+| [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | 3 | 2,162 | 29,380 |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 2 | 5,286 | 67,236 |
+| [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | Python | 1 | 2,109 | 27,864 |
+| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | Go | 1 | 1,025 | 29,961 |
 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | 1 | 626 | 59,682 |
 | [pytorch/pytorch](https://github.com/pytorch/pytorch) | Python | 1 | 315 | 104,680 |
-| [vercel-labs/skills](https://github.com/vercel-labs/skills) | TypeScript | 1 | 190 | 34,729 |
-| [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python | 1 | 157 | 155,435 |
 
 ➡️ Last full weekly analysis: [2026-W41](reports/weekly/2026-W41.md) · [all reports](reports/weekly)
 
-_Tracking since 2026-10-01 · 14 day(s) of data · [raw data](data/trending.csv)_
+_Tracking since 2026-10-01 · 15 day(s) of data · [raw data](data/trending.csv)_
 <!-- TRACKER_END -->
 
 ## How it works
