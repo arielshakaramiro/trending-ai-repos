@@ -7,31 +7,26 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 ## Live view
 
 <!-- TRACKER_START -->
-### 🔥 AI repos trending today · 2026-10-22
+### 🔥 AI repos trending today · 2026-10-23
 
-11 of 12 trending repositories are AI-related.
+6 of 9 trending repositories are AI-related.
 
 | # | Repo | Language | ⭐ today | ⭐ total | Topics |
 |--:|---|---|--:|--:|---|
-| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)<br><sub>Star cloudflare / security-audit-skill A coding-agent skill for multi-phase security audit…</sub> | JavaScript | 2,012 | 37,469 | – |
-| 2 | [vllm-project/vllm](https://github.com/vllm-project/vllm)<br><sub>Sponsor Star vllm-project / vllm A high-throughput and memory-efficient inference and serv…</sub> | Python | 441 | 95,022 | `amd` `blackwell` `cuda` `deepseek` |
-| 3 | [stablyai/orca](https://github.com/stablyai/orca)<br><sub>Star stablyai / orca Orca is the place for working with a fleet of agents (e.g. Grok Bot, …</sub> | TypeScript | 1,541 | 101,811 | `ade` `agent-ide` `ai-agents` `automation` |
-| 4 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)<br><sub>Star headroomlabs-ai / headroom Compress tool outputs, logs, files, and RAG chunks before …</sub> | Python | 474 | 77,411 | `agent` `ai` `anthropic` `claude-code` |
-| 5 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br><sub>Sponsor Star DietrichGebert / ponytail Makes your AI agent think like the laziest senior d…</sub> | JavaScript | 2,079 | 172,190 | `agent-skills` `ai-agents` `claude` `claude-code` |
-| 6 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)<br><sub>Star Comfy-Org / ComfyUI The most powerful and modular diffusion model GUI, api and backen…</sub> | Python | 939 | 141,738 | `ai` `comfy` `comfyui` `python` |
-| 7 | [supabase/supabase](https://github.com/supabase/supabase)<br><sub>Sponsor Star supabase / supabase The Postgres development platform. Supabase gives you a d…</sub> | TypeScript | 504 | 113,174 | `ai` `alternative` `auth` `database` |
-| 8 | [twentyhq/twenty](https://github.com/twentyhq/twenty)<br><sub>Star twentyhq / twenty The open alternative to Salesforce, designed for AI.</sub> | TypeScript | 112 | 59,398 | `crm` `crm-system` `customer` `good-first-issue` |
-| 10 | [strelov1/freehire](https://github.com/strelov1/freehire)<br><sub>Sponsor Star strelov1 / freehire freehire — the open-source search engine for job seekers</sub> | Go | 360 | 2,563 | `ats` `career` `careers` `golang` |
-| 11 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)<br><sub>Star akitaonrails / ai-memory Solution for long term memory for agent coding CLIs and to f…</sub> | Rust | 286 | 12,537 | – |
-| 12 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)<br><sub>Star Graphify-Labs / graphify Turn any codebase, with its docs, SQL schemas, configs, and …</sub> | Python | 1,433 | 132,017 | `ai-agents` `antigravity` `ast` `claude-code` |
+| 2 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)<br><sub>Star anthropics / knowledge-work-plugins Open source repository of plugins primarily inten…</sub> | Python | 303 | 31,791 | – |
+| 3 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br><sub>Sponsor Star DietrichGebert / ponytail Makes your AI agent think like the laziest senior d…</sub> | JavaScript | 1,948 | 173,995 | `agent-skills` `ai-agents` `claude` `claude-code` |
+| 4 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)<br><sub>Star cloudflare / security-audit-skill A coding-agent skill for multi-phase security audit…</sub> | JavaScript | 2,979 | 40,204 | – |
+| 5 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)<br><sub>Star Graphify-Labs / graphify Turn any codebase, with its docs, SQL schemas, configs, and …</sub> | Python | 1,408 | 133,336 | `ai-agents` `antigravity` `ast` `claude-code` |
+| 6 | [supabase/supabase](https://github.com/supabase/supabase)<br><sub>Sponsor Star supabase / supabase The Postgres development platform. Supabase gives you a d…</sub> | TypeScript | 693 | 113,607 | `ai` `alternative` `auth` `database` |
+| 8 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)<br><sub>Sponsor Star luongnv89 / claude-howto A visual, example-driven guide to Claude Code — from…</sub> | Python | 177 | 43,546 | `claude-code` `guide` `tutorial` |
 
 ### 📊 This week so far · 2026-W43
 
 #### Summary
 
-- **22** distinct AI repos trended over 4 day(s) (last week: 27)
-- AI share of all trending slots: **84%** (+6 pts vs last week)
-- Dominant language: **Python** (45% of AI repos)
+- **23** distinct AI repos trended over 5 day(s) (last week: 27)
+- AI share of all trending slots: **82%** (+4 pts vs last week)
+- Dominant language: **Python** (48% of AI repos)
 - Rising topics: `cursor` (+3), `postgresql` (+3), `claude-code-plugin` (+2), `cursor-rules` (+2), `langchain` (+2)
 - New this week: `cursor`, `postgresql`, `pytorch`, `langchain`, `claude-code-plugin`, `cursor-rules`
 
@@ -41,13 +36,13 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 
 | Language | Repos | Share | Last week |
 |---|--:|--:|--:|
-| Python | 10 | 45% | 10 |
-| TypeScript | 6 | 27% | 7 |
+| Python | 11 | 48% | 10 |
+| TypeScript | 6 | 26% | 7 |
 | JavaScript | 2 | 9% | 1 |
-| Rust | 1 | 5% | 3 |
-| Unspecified | 1 | 5% | 0 |
-| Shell | 1 | 5% | 1 |
-| Go | 1 | 5% | 2 |
+| Rust | 1 | 4% | 3 |
+| Unspecified | 1 | 4% | 0 |
+| Shell | 1 | 4% | 1 |
+| Go | 1 | 4% | 2 |
 
 #### Topics
 
@@ -55,7 +50,7 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 
 | Topic | Repos this week |
 |---|--:|
-| `claude-code` | 7 |
+| `claude-code` | 8 |
 | `ai-agents` | 6 |
 | `mcp` | 4 |
 | `codex` | 4 |
@@ -75,17 +70,17 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 | [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | 4 | 5,842 | 101,811 |
 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python | 4 | 3,310 | 141,738 |
 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | 3 | 9,949 | 61,499 |
+| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 3 | 6,703 | 40,204 |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 3 | 5,235 | 173,995 |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | 3 | 3,965 | 219,234 |
+| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | 3 | 3,643 | 133,336 |
 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 3 | 1,761 | 77,993 |
 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | 3 | 1,464 | 12,537 |
 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | Python | 3 | 1,333 | 77,411 |
-| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 2 | 3,724 | 37,469 |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 2 | 3,287 | 172,190 |
-| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | 2 | 2,235 | 132,017 |
 
 ➡️ Last full weekly analysis: [2026-W42](reports/weekly/2026-W42.md) · [all reports](reports/weekly)
 
-_Tracking since 2026-10-01 · 22 day(s) of data · [raw data](data/trending.csv)_
+_Tracking since 2026-10-01 · 23 day(s) of data · [raw data](data/trending.csv)_
 <!-- TRACKER_END -->
 
 ## How it works
