@@ -7,28 +7,27 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 ## Live view
 
 <!-- TRACKER_START -->
-### 🔥 AI repos trending today · 2026-10-23
+### 🔥 AI repos trending today · 2026-10-24
 
-6 of 9 trending repositories are AI-related.
+5 of 8 trending repositories are AI-related.
 
 | # | Repo | Language | ⭐ today | ⭐ total | Topics |
 |--:|---|---|--:|--:|---|
-| 2 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)<br><sub>Star anthropics / knowledge-work-plugins Open source repository of plugins primarily inten…</sub> | Python | 303 | 31,791 | – |
-| 3 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br><sub>Sponsor Star DietrichGebert / ponytail Makes your AI agent think like the laziest senior d…</sub> | JavaScript | 1,948 | 173,995 | `agent-skills` `ai-agents` `claude` `claude-code` |
-| 4 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)<br><sub>Star cloudflare / security-audit-skill A coding-agent skill for multi-phase security audit…</sub> | JavaScript | 2,979 | 40,204 | – |
-| 5 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)<br><sub>Star Graphify-Labs / graphify Turn any codebase, with its docs, SQL schemas, configs, and …</sub> | Python | 1,408 | 133,336 | `ai-agents` `antigravity` `ast` `claude-code` |
-| 6 | [supabase/supabase](https://github.com/supabase/supabase)<br><sub>Sponsor Star supabase / supabase The Postgres development platform. Supabase gives you a d…</sub> | TypeScript | 693 | 113,607 | `ai` `alternative` `auth` `database` |
-| 8 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)<br><sub>Sponsor Star luongnv89 / claude-howto A visual, example-driven guide to Claude Code — from…</sub> | Python | 177 | 43,546 | `claude-code` `guide` `tutorial` |
+| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)<br><sub>Star cloudflare / security-audit-skill A coding-agent skill for multi-phase security audit…</sub> | JavaScript | 2,716 | 42,629 | – |
+| 3 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)<br><sub>Star anthropics / knowledge-work-plugins Open source repository of plugins primarily inten…</sub> | Python | 635 | 32,378 | – |
+| 4 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)<br><sub>Star NVIDIA / OpenShell OpenShell is the safe, private runtime for autonomous AI agents.</sub> | Rust | 1,119 | 18,971 | – |
+| 6 | [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)<br><sub>Star SnailSploit / Claude-Red claude-red is a curated library of offensive security skills…</sub> | Python | 226 | 8,661 | `claude-ai` `claude-pt` `claude-skills` `redteam` |
+| 7 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)<br><sub>Star OpenBMB / VoxCPM VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Crea…</sub> | Python | 150 | 40,387 | `audio` `deeplearning` `minicpm` `multilingual` |
 
 ### 📊 This week so far · 2026-W43
 
 #### Summary
 
-- **23** distinct AI repos trended over 5 day(s) (last week: 27)
-- AI share of all trending slots: **82%** (+4 pts vs last week)
-- Dominant language: **Python** (48% of AI repos)
-- Rising topics: `cursor` (+3), `postgresql` (+3), `claude-code-plugin` (+2), `cursor-rules` (+2), `langchain` (+2)
-- New this week: `cursor`, `postgresql`, `pytorch`, `langchain`, `claude-code-plugin`, `cursor-rules`
+- **26** distinct AI repos trended over 6 day(s) (last week: 27)
+- AI share of all trending slots: **79%** (+1 pts vs last week)
+- Dominant language: **Python** (50% of AI repos)
+- Rising topics: `cursor` (+3), `postgresql` (+3), `pytorch` (+3), `claude-code-plugin` (+2), `cursor-rules` (+2)
+- New this week: `pytorch`, `cursor`, `postgresql`, `langchain`, `cursor-rules`, `claude-code-plugin`
 
 #### Languages
 
@@ -36,10 +35,10 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 
 | Language | Repos | Share | Last week |
 |---|--:|--:|--:|
-| Python | 11 | 48% | 10 |
-| TypeScript | 6 | 26% | 7 |
-| JavaScript | 2 | 9% | 1 |
-| Rust | 1 | 4% | 3 |
+| Python | 13 | 50% | 10 |
+| TypeScript | 6 | 23% | 7 |
+| Rust | 2 | 8% | 3 |
+| JavaScript | 2 | 8% | 1 |
 | Unspecified | 1 | 4% | 0 |
 | Shell | 1 | 4% | 1 |
 | Go | 1 | 4% | 2 |
@@ -52,25 +51,25 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 |---|--:|
 | `claude-code` | 8 |
 | `ai-agents` | 6 |
+| `skills` | 4 |
 | `mcp` | 4 |
 | `codex` | 4 |
-| `skills` | 3 |
 | `claude` | 3 |
+| `pytorch` | 3 |
 | `cursor` | 3 |
 | `postgresql` | 3 |
-| `job-search` | 2 |
 | `career` | 2 |
+| `job-search` | 2 |
 | `multi-agent` | 2 |
-| `agentic-ai` | 2 |
 
 #### Most persistent AI repos
 
 | Repo | Language | Days trending | Stars gained | Total stars |
 |---|---|--:|--:|--:|
+| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 4 | 9,419 | 42,629 |
 | [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | 4 | 5,842 | 101,811 |
 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python | 4 | 3,310 | 141,738 |
 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | 3 | 9,949 | 61,499 |
-| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 3 | 6,703 | 40,204 |
 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 3 | 5,235 | 173,995 |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | 3 | 3,965 | 219,234 |
 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | 3 | 3,643 | 133,336 |
@@ -80,7 +79,7 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 
 ➡️ Last full weekly analysis: [2026-W42](reports/weekly/2026-W42.md) · [all reports](reports/weekly)
 
-_Tracking since 2026-10-01 · 23 day(s) of data · [raw data](data/trending.csv)_
+_Tracking since 2026-10-01 · 24 day(s) of data · [raw data](data/trending.csv)_
 <!-- TRACKER_END -->
 
 ## How it works
