@@ -7,27 +7,30 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 ## Live view
 
 <!-- TRACKER_START -->
-### 🔥 AI repos trending today · 2026-10-24
+### 🔥 AI repos trending today · 2026-10-25
 
-5 of 8 trending repositories are AI-related.
+8 of 10 trending repositories are AI-related.
 
 | # | Repo | Language | ⭐ today | ⭐ total | Topics |
 |--:|---|---|--:|--:|---|
-| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)<br><sub>Star cloudflare / security-audit-skill A coding-agent skill for multi-phase security audit…</sub> | JavaScript | 2,716 | 42,629 | – |
-| 3 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)<br><sub>Star anthropics / knowledge-work-plugins Open source repository of plugins primarily inten…</sub> | Python | 635 | 32,378 | – |
-| 4 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)<br><sub>Star NVIDIA / OpenShell OpenShell is the safe, private runtime for autonomous AI agents.</sub> | Rust | 1,119 | 18,971 | – |
-| 6 | [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)<br><sub>Star SnailSploit / Claude-Red claude-red is a curated library of offensive security skills…</sub> | Python | 226 | 8,661 | `claude-ai` `claude-pt` `claude-skills` `redteam` |
-| 7 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)<br><sub>Star OpenBMB / VoxCPM VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Crea…</sub> | Python | 150 | 40,387 | `audio` `deeplearning` `minicpm` `multilingual` |
+| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)<br><sub>Star cloudflare / security-audit-skill A coding-agent skill for multi-phase security audit…</sub> | JavaScript | 2,264 | 45,268 | – |
+| 2 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)<br><sub>Star NVIDIA / OpenShell OpenShell is the safe, private runtime for autonomous AI agents.</sub> | Rust | 896 | 19,644 | – |
+| 3 | [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws)<br><sub>Star aws / agent-toolkit-for-aws Official, AWS-supported MCP servers, skills, and plugins …</sub> | Python | 13 | 3,217 | – |
+| 4 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark)<br><sub>Star Nutlope / hallmark Anti-AI-slop design skill for Claude Code, Cursor, and Codex.</sub> | CSS | 455 | 32,530 | – |
+| 5 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)<br><sub>Sponsor Star luongnv89 / claude-howto A visual, example-driven guide to Claude Code — from…</sub> | Python | 392 | 44,749 | `claude-code` `guide` `tutorial` |
+| 6 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable)<br><sub>Star pbakaus / impeccable The design language that makes your AI harness better at design.</sub> | Rust | 619 | 86,679 | – |
+| 8 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)<br><sub>Star google-gemini / gemini-cli An open-source AI agent that brings the power of Gemini di…</sub> | TypeScript | 44 | 108,247 | `ai` `ai-agents` `cli` `gemini` |
+| 10 | [makecindy/cindy](https://github.com/makecindy/cindy)<br><sub>Star makecindy / cindy Consider it done. The open-source AI agent that works out of the bo…</sub> | TypeScript | 477 | 4,284 | `agent` `ai-agent` `ai-assistant` `android` |
 
 ### 📊 This week so far · 2026-W43
 
 #### Summary
 
-- **26** distinct AI repos trended over 6 day(s) (last week: 27)
-- AI share of all trending slots: **79%** (+1 pts vs last week)
-- Dominant language: **Python** (50% of AI repos)
-- Rising topics: `cursor` (+3), `postgresql` (+3), `pytorch` (+3), `claude-code-plugin` (+2), `cursor-rules` (+2)
-- New this week: `pytorch`, `cursor`, `postgresql`, `langchain`, `cursor-rules`, `claude-code-plugin`
+- **31** distinct AI repos trended over 7 day(s) (last week: 27)
+- AI share of all trending slots: **79%** (+2 pts vs last week)
+- Dominant language: **Python** (45% of AI repos)
+- Rising topics: `cursor` (+3), `postgresql` (+3), `pytorch` (+3), `agent` (+2), `claude-code-plugin` (+2)
+- New this week: `pytorch`, `cursor`, `postgresql`, `agent`, `langchain`, `cursor-rules`
 
 #### Languages
 
@@ -35,13 +38,14 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 
 | Language | Repos | Share | Last week |
 |---|--:|--:|--:|
-| Python | 13 | 50% | 10 |
-| TypeScript | 6 | 23% | 7 |
-| Rust | 2 | 8% | 3 |
-| JavaScript | 2 | 8% | 1 |
-| Unspecified | 1 | 4% | 0 |
-| Shell | 1 | 4% | 1 |
-| Go | 1 | 4% | 2 |
+| Python | 14 | 45% | 10 |
+| TypeScript | 8 | 26% | 7 |
+| Rust | 3 | 10% | 3 |
+| JavaScript | 2 | 6% | 1 |
+| Unspecified | 1 | 3% | 0 |
+| Shell | 1 | 3% | 1 |
+| Go | 1 | 3% | 2 |
+| CSS | 1 | 3% | 0 |
 
 #### Topics
 
@@ -49,24 +53,24 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 
 | Topic | Repos this week |
 |---|--:|
-| `claude-code` | 8 |
-| `ai-agents` | 6 |
+| `claude-code` | 9 |
+| `ai-agents` | 7 |
+| `codex` | 5 |
 | `skills` | 4 |
 | `mcp` | 4 |
-| `codex` | 4 |
 | `claude` | 3 |
 | `pytorch` | 3 |
 | `cursor` | 3 |
 | `postgresql` | 3 |
-| `career` | 2 |
 | `job-search` | 2 |
-| `multi-agent` | 2 |
+| `career` | 2 |
+| `mcp-server` | 2 |
 
 #### Most persistent AI repos
 
 | Repo | Language | Days trending | Stars gained | Total stars |
 |---|---|--:|--:|--:|
-| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 4 | 9,419 | 42,629 |
+| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 5 | 11,683 | 45,268 |
 | [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | 4 | 5,842 | 101,811 |
 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python | 4 | 3,310 | 141,738 |
 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | 3 | 9,949 | 61,499 |
@@ -79,7 +83,7 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 
 ➡️ Last full weekly analysis: [2026-W42](reports/weekly/2026-W42.md) · [all reports](reports/weekly)
 
-_Tracking since 2026-10-01 · 24 day(s) of data · [raw data](data/trending.csv)_
+_Tracking since 2026-10-01 · 25 day(s) of data · [raw data](data/trending.csv)_
 <!-- TRACKER_END -->
 
 ## How it works
