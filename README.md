@@ -7,32 +7,34 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 ## Live view
 
 <!-- TRACKER_START -->
-### 🔥 AI repos trending today · 2026-10-30
+### 🔥 AI repos trending today · 2026-10-31
 
-10 of 11 trending repositories are AI-related.
+12 of 15 trending repositories are AI-related.
 
 | # | Repo | Language | ⭐ today | ⭐ total | Topics |
 |--:|---|---|--:|--:|---|
-| 1 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)<br><sub>Star HKUDS / DeepTutor DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ …</sub> | Python | 1,930 | 50,990 | `ai-agents` `ai-tutor` `clawbot` `cli-tool` |
-| 2 | [obra/superpowers](https://github.com/obra/superpowers)<br><sub>Sponsor Star obra / superpowers An agentic skills framework & software development methodo…</sub> | Shell | 1,034 | 308,948 | `ai` `brainstorming` `coding` `obra` |
-| 3 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable)<br><sub>Star pbakaus / impeccable The design vocabulary for your coding agent. Steer with polish a…</sub> | Rust | 2,870 | 96,089 | `agent-skills` `ai` `anti-slop` `design` |
-| 4 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)<br><sub>Star JetBrains / thinkrail Vibe code with pi in a lightweight, real IDE that customises it…</sub> | TypeScript | 1,117 | 6,242 | `agent` `agent-skills` `agentic-ai` `agentic-workflow` |
-| 5 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)<br><sub>Sponsor Star milind-soni / OpenMausBot Open-source Grok Bot alternative with a virtual mac…</sub> | TypeScript | 1,199 | 7,780 | `ai-agents` `claude-code` `codex` `computer-use` |
-| 6 | [nightly-labs/openbot](https://github.com/nightly-labs/openbot)<br><sub>Star nightly-labs / openbot A local-first desktop workspace for persistent AI teammates. R…</sub> | TypeScript | 709 | 4,079 | `ai-agents` `bun` `codex` `electron` |
-| 7 | [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)<br><sub></sub> | – | 1,187 | 12,559 | – |
-| 8 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)<br><sub>Sponsor Star thedotmack / claude-mem Persistent Context Across Sessions for Every Agent – …</sub> | TypeScript | 336 | 105,133 | `ai` `ai-agents` `ai-memory` `anthropic` |
-| 9 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)<br><sub>Star CopilotKit / OpenBot Open-source AI coworkers that each get a computer of their own: …</sub> | TypeScript | 247 | 8,371 | `ag-ui` `agent-governance` `ai-agents` `browser-automation` |
-| 11 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)<br><sub>Sponsor Star Donchitos / Claude-Code-Game-Studios Turn Claude Code into a full game dev st…</sub> | Shell | 353 | 29,725 | `ai-agents` `ai-assisted-development` `anthropic` `claude` |
+| 1 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)<br><sub>Sponsor Star thedotmack / claude-mem Persistent Context Across Sessions for Every Agent – …</sub> | TypeScript | 1,140 | 106,771 | `ai` `ai-agents` `ai-memory` `anthropic` |
+| 2 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)<br><sub>Sponsor Star milind-soni / OpenMausBot Open-source Grok Bot alternative with a virtual mac…</sub> | TypeScript | 895 | 9,021 | `ai-agents` `claude-code` `codex` `computer-use` |
+| 3 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable)<br><sub>Star pbakaus / impeccable The design vocabulary for your coding agent. Steer with polish a…</sub> | Rust | 2,300 | 97,480 | `agent-skills` `ai` `anti-slop` `design` |
+| 4 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)<br><sub>Star CopilotKit / OpenBot Open-source AI coworkers that each get a computer of their own: …</sub> | TypeScript | 706 | 8,968 | `ag-ui` `agent-governance` `ai-agents` `browser-automation` |
+| 6 | [expo/skills](https://github.com/expo/skills)<br><sub>Star expo / skills A collection of AI agent skills for working with Expo projects and Expo…</sub> | Shell | 38 | 3,950 | – |
+| 7 | [macro-inc/macro](https://github.com/macro-inc/macro)<br><sub>Star macro-inc / macro Macro is a unified workspace for teams: email, chat, docs, tasks, a…</sub> | Rust | 57 | 5,957 | `agent` `ai` `ai-agents` `all-in-one` |
+| 8 | [mattpocock/skills](https://github.com/mattpocock/skills)<br><sub>Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents direc…</sub> | Shell | 876 | 307,724 | – |
+| 10 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)<br><sub>Star HKUDS / DeepTutor DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ …</sub> | Python | 2,282 | 52,091 | `ai-agents` `ai-tutor` `clawbot` `cli-tool` |
+| 11 | [anthropics/skills](https://github.com/anthropics/skills)<br><sub>Star anthropics / skills Public repository for Agent Skills</sub> | Python | 295 | 185,557 | `agent-skills` |
+| 12 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)<br><sub>Star JetBrains / thinkrail Vibe code with pi in a lightweight, real IDE that customises it…</sub> | TypeScript | 722 | 6,693 | `agent` `agent-skills` `agentic-ai` `agentic-workflow` |
+| 14 | [obra/superpowers](https://github.com/obra/superpowers)<br><sub>Sponsor Star obra / superpowers An agentic skills framework & software development methodo…</sub> | Shell | 1,259 | 309,617 | `ai` `brainstorming` `coding` `obra` |
+| 15 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser)<br><sub>Star lightpanda-io / browser Lightpanda: the headless browser designed for AI and automati…</sub> | Zig | 626 | 38,672 | `browser` `browser-automation` `cdp` `headless` |
 
 ### 📊 This week so far · 2026-W44
 
 #### Summary
 
-- **25** distinct AI repos trended over 5 day(s) (last week: 31)
-- AI share of all trending slots: **85%** (+6 pts vs last week)
-- Dominant language: **TypeScript** (28% of AI repos)
-- Rising topics: `agent` (+2), `agent-skills` (+2), `design` (+2), `electron` (+2), `ai-agent` (+1)
-- New this week: `design`
+- **28** distinct AI repos trended over 6 day(s) (last week: 31)
+- AI share of all trending slots: **84%** (+5 pts vs last week)
+- No single dominant language: Python, TypeScript tied at 7 repo(s) each
+- Rising topics: `agent-skills` (+3), `agent` (+2), `browser-automation` (+2), `design` (+2), `electron` (+2)
+- New this week: `design`, `browser-automation`
 
 #### Languages
 
@@ -40,14 +42,15 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 
 | Language | Repos | Share | Last week |
 |---|--:|--:|--:|
-| TypeScript | 7 | 28% | 8 |
-| Python | 6 | 24% | 14 |
-| Rust | 3 | 12% | 3 |
-| Shell | 3 | 12% | 1 |
-| JavaScript | 2 | 8% | 2 |
-| Unspecified | 2 | 8% | 1 |
+| TypeScript | 7 | 25% | 8 |
+| Python | 7 | 25% | 14 |
+| Shell | 4 | 14% | 1 |
+| Rust | 3 | 11% | 3 |
+| JavaScript | 2 | 7% | 2 |
+| Unspecified | 2 | 7% | 1 |
 | CSS | 1 | 4% | 1 |
 | HTML | 1 | 4% | 0 |
+| Zig | 1 | 4% | 0 |
 
 #### Topics
 
@@ -57,10 +60,10 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 |---|--:|
 | `claude-code` | 9 |
 | `ai-agents` | 8 |
+| `agent-skills` | 5 |
 | `mcp` | 5 |
-| `agent` | 4 |
 | `codex` | 4 |
-| `agent-skills` | 4 |
+| `agent` | 4 |
 | `claude` | 4 |
 | `electron` | 3 |
 | `anthropic` | 3 |
@@ -72,20 +75,20 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 
 | Repo | Language | Days trending | Stars gained | Total stars |
 |---|---|--:|--:|--:|
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | 5 | 8,389 | 96,089 |
-| [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | TypeScript | 5 | 4,613 | 6,242 |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | 6 | 10,689 | 97,480 |
+| [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | TypeScript | 6 | 5,335 | 6,693 |
 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | 4 | 8,501 | 41,191 |
+| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | 4 | 8,181 | 52,091 |
 | [makecindy/cindy](https://github.com/makecindy/cindy) | TypeScript | 4 | 4,164 | 8,361 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 4 | 4,005 | 309,617 |
 | [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | TypeScript | 4 | 2,716 | 4,079 |
-| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | 3 | 5,899 | 50,990 |
 | [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | – | 3 | 4,721 | 12,559 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 3 | 2,746 | 308,948 |
 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 2 | 3,889 | 90,012 |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 2 | 2,061 | 291,181 |
+| [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | TypeScript | 2 | 2,094 | 9,021 |
 
 ➡️ Last full weekly analysis: [2026-W43](reports/weekly/2026-W43.md) · [all reports](reports/weekly)
 
-_Tracking since 2026-10-01 · 30 day(s) of data · [raw data](data/trending.csv)_
+_Tracking since 2026-10-01 · 31 day(s) of data · [raw data](data/trending.csv)_
 <!-- TRACKER_END -->
 
 ## How it works
