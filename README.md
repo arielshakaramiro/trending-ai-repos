@@ -7,86 +7,83 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 ## Live view
 
 <!-- TRACKER_START -->
-### 🔥 AI repos trending today · 2026-11-01
+### 🔥 AI repos trending today · 2026-11-02
 
-10 of 14 trending repositories are AI-related.
+11 of 16 trending repositories are AI-related.
 
 | # | Repo | Language | ⭐ today | ⭐ total | Topics |
 |--:|---|---|--:|--:|---|
-| 1 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)<br><sub>Sponsor Star thedotmack / claude-mem Persistent Context Across Sessions for Every Agent – …</sub> | TypeScript | 1,723 | 108,287 | `ai` `ai-agents` `ai-memory` `anthropic` |
-| 2 | [mattpocock/skills](https://github.com/mattpocock/skills)<br><sub>Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents direc…</sub> | Shell | 883 | 308,742 | – |
-| 3 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)<br><sub>Sponsor Star Donchitos / Claude-Code-Game-Studios Turn Claude Code into a full game dev st…</sub> | Shell | 742 | 31,492 | `ai-agents` `ai-assisted-development` `anthropic` `claude` |
-| 6 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)<br><sub>Sponsor Star milind-soni / OpenMausBot Open-source Grok Bot alternative with a virtual mac…</sub> | TypeScript | 1,303 | 9,987 | `ai-agents` `claude-code` `codex` `computer-use` |
-| 7 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable)<br><sub>Star pbakaus / impeccable The design vocabulary for your coding agent. Steer with polish a…</sub> | Rust | 1,338 | 98,668 | `agent-skills` `ai` `anti-slop` `design` |
-| 8 | [obra/superpowers](https://github.com/obra/superpowers)<br><sub>Sponsor Star obra / superpowers An agentic skills framework & software development methodo…</sub> | Shell | 665 | 310,267 | `ai` `brainstorming` `coding` `obra` |
-| 9 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser)<br><sub>Star lightpanda-io / browser Lightpanda: the headless browser designed for AI and automati…</sub> | Zig | 929 | 39,488 | `browser` `browser-automation` `cdp` `headless` |
-| 10 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)<br><sub>Star HKUDS / DeepTutor DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ …</sub> | Python | 1,034 | 53,193 | `ai-agents` `ai-tutor` `clawbot` `cli-tool` |
-| 11 | [Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas)<br><sub>Star Orkas-AI / Orkas Orkas is an open-source (MIT), local-first AI team for your desktop:…</sub> | JavaScript | 1,044 | 7,018 | `agent-collaboration` `agent-harness` `agent-orchestration` `agent-team` |
-| 12 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)<br><sub>Star THU-MAIC / OpenMAIC Open Multi-Agent Interactive Classroom — Get an immersive, multi-…</sub> | TypeScript | 116 | 42,318 | – |
+| 1 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)<br><sub>Sponsor Star thedotmack / claude-mem Persistent Context Across Sessions for Every Agent – …</sub> | TypeScript | 1,526 | 110,017 | `ai` `ai-agents` `ai-memory` `anthropic` |
+| 2 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser)<br><sub>Star lightpanda-io / browser Lightpanda: the headless browser designed for AI and automati…</sub> | Zig | 825 | 40,668 | `browser` `browser-automation` `cdp` `headless` |
+| 5 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)<br><sub>Sponsor Star milind-soni / OpenMausBot Open-source Grok Bot alternative with a virtual mac…</sub> | TypeScript | 922 | 10,910 | `ai-agents` `claude-code` `codex` `computer-use` |
+| 7 | [cjpais/Handy](https://github.com/cjpais/Handy)<br><sub>Sponsor Star cjpais / Handy A free, open source, and extensible speech-to-text application…</sub> | Rust | 339 | 36,948 | `accessibility` `cross-platform` `speech-to-text` `tauri-v2` |
+| 8 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)<br><sub>Sponsor Star Donchitos / Claude-Code-Game-Studios Turn Claude Code into a full game dev st…</sub> | Shell | 967 | 32,845 | `ai-agents` `ai-assisted-development` `anthropic` `claude` |
+| 9 | [kornia/kornia](https://github.com/kornia/kornia)<br><sub>Sponsor Star kornia / kornia 🐍 Geometric Computer Vision Library for Spatial AI</sub> | Python | 101 | 11,953 | `artificial-intelligence` `computer-vision` `deep-learning` `hacktoberfest` |
+| 10 | [beenuar/AiSOC](https://github.com/beenuar/AiSOC)<br><sub>Star beenuar / AiSOC Open-source AI Security Operations Center: alert fusion, LLM-agent tr…</sub> | Python | 446 | 6,483 | `agentic-ai` `ai-security` `alert-triage` `blue-team` |
+| 11 | [anomalyco/hex](https://github.com/anomalyco/hex)<br><sub>Sponsor Star anomalyco / hex Local voice dictation for mac, windows and linux</sub> | Rust | 1,179 | 3,713 | `dictation` `linux` `local-first` `macos` |
+| 12 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)<br><sub>Star CopilotKit / OpenBot Open-source AI coworkers that each get a computer of their own: …</sub> | TypeScript | 175 | 9,756 | `ag-ui` `agent-governance` `ai-agents` `browser-automation` |
+| 14 | [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)<br><sub>Sponsor Star patchy631 / ai-engineering-hub In-depth tutorials on LLMs, RAGs and real-worl…</sub> | Jupyter Notebook | 1,191 | 40,719 | `agents` `ai` `llms` `machine-learning` |
+| 15 | [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken)<br><sub>Star FlashML-org / FreeToken FreeToken brings datacenter-scale model serving to your deskt…</sub> | Python | 242 | 15,674 | `deepseek-v4` `edge` `glm` `inference` |
 
-### 📊 This week so far · 2026-W44
+### 📊 This week so far · 2026-W45
 
 #### Summary
 
-- **30** distinct AI repos trended over 7 day(s) (last week: 31)
-- AI share of all trending slots: **82%** (+3 pts vs last week)
-- Dominant language: **TypeScript** (27% of AI repos)
-- Rising topics: `agent-skills` (+3), `agent` (+2), `browser-automation` (+2), `design` (+2), `electron` (+2)
-- New this week: `design`, `browser-automation`
+- **11** distinct AI repos trended over 1 day(s) (last week: 30)
+- AI share of all trending slots: **69%** (-13 pts vs last week)
+- No single dominant language: Python, TypeScript tied at 3 repo(s) each
+- Rising topics: `self-hosted` (+1), `speech-to-text` (+1)
 
 #### Languages
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="charts/2026-W44-languages-dark.png"><img alt="Languages of trending AI repos" src="charts/2026-W44-languages.png"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="charts/2026-W45-languages-dark.png"><img alt="Languages of trending AI repos" src="charts/2026-W45-languages.png"></picture>
 
 | Language | Repos | Share | Last week |
 |---|--:|--:|--:|
-| TypeScript | 8 | 27% | 8 |
-| Python | 7 | 23% | 14 |
-| Shell | 4 | 13% | 1 |
-| Rust | 3 | 10% | 3 |
-| JavaScript | 3 | 10% | 2 |
-| Unspecified | 2 | 7% | 1 |
-| CSS | 1 | 3% | 1 |
-| HTML | 1 | 3% | 0 |
-| Zig | 1 | 3% | 0 |
+| TypeScript | 3 | 27% | 8 |
+| Python | 3 | 27% | 7 |
+| Rust | 2 | 18% | 3 |
+| Zig | 1 | 9% | 1 |
+| Shell | 1 | 9% | 4 |
+| Jupyter Notebook | 1 | 9% | 0 |
 
 #### Topics
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="charts/2026-W44-topics-dark.png"><img alt="Topic movers" src="charts/2026-W44-topics.png"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="charts/2026-W45-topics-dark.png"><img alt="Topic movers" src="charts/2026-W45-topics.png"></picture>
 
 | Topic | Repos this week |
 |---|--:|
-| `claude-code` | 9 |
-| `ai-agents` | 8 |
-| `agent-skills` | 5 |
-| `mcp` | 5 |
-| `agent` | 4 |
-| `codex` | 4 |
-| `claude` | 4 |
-| `electron` | 3 |
-| `local-first` | 3 |
-| `anthropic` | 3 |
-| `ai-agent` | 2 |
-| `macos` | 2 |
+| `ai-agents` | 4 |
+| `claude-code` | 3 |
+| `mcp` | 3 |
+| `anthropic` | 2 |
+| `claude` | 2 |
+| `rag` | 2 |
+| `browser-automation` | 2 |
+| `self-hosted` | 2 |
+| `speech-to-text` | 2 |
+| `claude-code-plugin` | 1 |
+| `claude-agent-sdk` | 1 |
+| `sqlite` | 1 |
 
 #### Most persistent AI repos
 
 | Repo | Language | Days trending | Stars gained | Total stars |
 |---|---|--:|--:|--:|
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | 7 | 12,027 | 98,668 |
-| [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | TypeScript | 6 | 5,335 | 6,693 |
-| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | 5 | 9,215 | 53,193 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 5 | 4,670 | 310,267 |
-| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | 4 | 8,501 | 41,191 |
-| [makecindy/cindy](https://github.com/makecindy/cindy) | TypeScript | 4 | 4,164 | 8,361 |
-| [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | TypeScript | 4 | 2,716 | 4,079 |
-| [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | – | 3 | 4,721 | 12,559 |
-| [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | TypeScript | 3 | 3,397 | 9,987 |
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 3 | 3,199 | 108,287 |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 1 | 1,526 | 110,017 |
+| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | Jupyter Notebook | 1 | 1,191 | 40,719 |
+| [anomalyco/hex](https://github.com/anomalyco/hex) | Rust | 1 | 1,179 | 3,713 |
+| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Shell | 1 | 967 | 32,845 |
+| [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | TypeScript | 1 | 922 | 10,910 |
+| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Zig | 1 | 825 | 40,668 |
+| [beenuar/AiSOC](https://github.com/beenuar/AiSOC) | Python | 1 | 446 | 6,483 |
+| [cjpais/Handy](https://github.com/cjpais/Handy) | Rust | 1 | 339 | 36,948 |
+| [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) | Python | 1 | 242 | 15,674 |
+| [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | TypeScript | 1 | 175 | 9,756 |
 
-➡️ Last full weekly analysis: [2026-W43](reports/weekly/2026-W43.md) · [all reports](reports/weekly)
+➡️ Last full weekly analysis: [2026-W44](reports/weekly/2026-W44.md) · [all reports](reports/weekly)
 
-_Tracking since 2026-10-01 · 32 day(s) of data · [raw data](data/trending.csv)_
+_Tracking since 2026-10-01 · 33 day(s) of data · [raw data](data/trending.csv)_
 <!-- TRACKER_END -->
 
 ## How it works
