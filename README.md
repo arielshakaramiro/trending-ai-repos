@@ -7,31 +7,32 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 ## Live view
 
 <!-- TRACKER_START -->
-### 🔥 AI repos trending today · 2026-11-03
+### 🔥 AI repos trending today · 2026-11-04
 
-10 of 15 trending repositories are AI-related.
+11 of 13 trending repositories are AI-related.
 
 | # | Repo | Language | ⭐ today | ⭐ total | Topics |
 |--:|---|---|--:|--:|---|
-| 1 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)<br><sub>Star vercel-labs / agent-desktop Computer use CLI for AI agents</sub> | Rust | 2,275 | 11,224 | `accessibility` `accessibility-api` `ai-agents` `automation` |
-| 2 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)<br><sub>Sponsor Star thedotmack / claude-mem Persistent Context Across Sessions for Every Agent – …</sub> | TypeScript | 1,803 | 111,176 | `ai` `ai-agents` `ai-memory` `anthropic` |
-| 3 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)<br><sub>Sponsor Star D4Vinci / Scrapling 🕷️ The BEST Web Scraping framework that handles everythin…</sub> | Python | 706 | 93,580 | `ai` `ai-scraping` `automation` `crawler` |
-| 5 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)<br><sub>Sponsor Star Donchitos / Claude-Code-Game-Studios Turn Claude Code into a full game dev st…</sub> | Shell | 1,379 | 34,037 | `ai-agents` `ai-assisted-development` `anthropic` `claude` |
-| 6 | [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken)<br><sub>Star FlashML-org / FreeToken FreeToken brings datacenter-scale model serving to your deskt…</sub> | Python | 653 | 16,360 | `deepseek-v4` `edge` `glm` `inference` |
-| 9 | [kornia/kornia](https://github.com/kornia/kornia)<br><sub>Sponsor Star kornia / kornia 🐍 Geometric Computer Vision Library for Spatial AI</sub> | Python | 412 | 12,263 | `artificial-intelligence` `computer-vision` `deep-learning` `hacktoberfest` |
-| 11 | [mattpocock/skills](https://github.com/mattpocock/skills)<br><sub>Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents direc…</sub> | Shell | 858 | 310,666 | – |
-| 12 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)<br><sub>Star max-sixty / worktrunk Worktrunk is a CLI for Git worktree management, designed for pa…</sub> | Rust | 77 | 10,198 | `agents` `claude-code` `codex` `developer-tools` |
-| 13 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip)<br><sub>Star paperclipai / paperclip The open-source app everyone uses to manage agents at work</sub> | TypeScript | 412 | 110,645 | `acpx` `agent-orchestration` `agent-skills` `agentic-ai` |
-| 15 | [p-e-w/heretic](https://github.com/p-e-w/heretic)<br><sub>Star p-e-w / heretic Training-free language model modification: Remove censorship, suppres…</sub> | Python | 420 | 38,361 | `abliteration` `anti-censorship` `anticensorship` `censorship` |
+| 1 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)<br><sub>Sponsor Star thedotmack / claude-mem Persistent Context Across Sessions for Every Agent – …</sub> | TypeScript | 1,139 | 112,306 | `ai` `ai-agents` `ai-memory` `anthropic` |
+| 2 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)<br><sub>Star vercel-labs / agent-desktop Computer use CLI for AI agents</sub> | Rust | 3,791 | 13,649 | `accessibility` `accessibility-api` `ai-agents` `automation` |
+| 3 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)<br><sub>Star max-sixty / worktrunk Worktrunk is a CLI for Git worktree management, designed for pa…</sub> | Rust | 438 | 10,706 | `agents` `claude-code` `codex` `developer-tools` |
+| 4 | [JustVugg/colibri](https://github.com/JustVugg/colibri)<br><sub>Star JustVugg / colibri A hierarchical inference engine for frontier MoE models: hot exper…</sub> | C | 802 | 47,469 | – |
+| 5 | [mattpocock/skills](https://github.com/mattpocock/skills)<br><sub>Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents direc…</sub> | Shell | 1,164 | 311,942 | – |
+| 6 | [p-e-w/heretic](https://github.com/p-e-w/heretic)<br><sub>Star p-e-w / heretic Training-free language model modification: Remove censorship, suppres…</sub> | Python | 701 | 39,063 | `abliteration` `anti-censorship` `anticensorship` `censorship` |
+| 7 | [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins)<br><sub></sub> | TypeScript | 91 | 3,110 | – |
+| 9 | [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor)<br><sub>Star Usagi-org / ai-goofish-monitor 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI…</sub> | Python | 228 | 16,935 | `ai` `ai-assistant` `ai-tools` `automation` |
+| 10 | [anomalyco/hex](https://github.com/anomalyco/hex)<br><sub>Sponsor Star anomalyco / hex Local voice dictation for mac, windows and linux</sub> | Rust | 410 | 4,809 | `dictation` `linux` `local-first` `macos` |
+| 11 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)<br><sub>Sponsor Star D4Vinci / Scrapling 🕷️ The BEST Web Scraping framework that handles everythin…</sub> | Python | 1,658 | 95,499 | `ai` `ai-scraping` `automation` `crawler` |
+| 13 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)<br><sub>Sponsor Star Donchitos / Claude-Code-Game-Studios Turn Claude Code into a full game dev st…</sub> | Shell | 1,182 | 35,031 | `ai-agents` `ai-assisted-development` `anthropic` `claude` |
 
 ### 📊 This week so far · 2026-W45
 
 #### Summary
 
-- **17** distinct AI repos trended over 2 day(s) (last week: 30)
-- AI share of all trending slots: **68%** (-14 pts vs last week)
-- Dominant language: **Python** (29% of AI repos)
-- Rising topics: `accessibility` (+2), `agents` (+2), `transformer` (+2), `automation` (+1), `computer-use` (+1)
+- **20** distinct AI repos trended over 3 day(s) (last week: 30)
+- AI share of all trending slots: **73%** (-9 pts vs last week)
+- Dominant language: **Python** (30% of AI repos)
+- Rising topics: `accessibility` (+2), `agents` (+2), `automation` (+2), `playwright` (+2), `transformer` (+2)
 - New this week: `accessibility`, `agents`, `transformer`
 
 #### Languages
@@ -40,12 +41,13 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 
 | Language | Repos | Share | Last week |
 |---|--:|--:|--:|
-| Python | 5 | 29% | 7 |
-| TypeScript | 4 | 24% | 8 |
-| Rust | 4 | 24% | 3 |
-| Shell | 2 | 12% | 4 |
-| Zig | 1 | 6% | 1 |
-| Jupyter Notebook | 1 | 6% | 0 |
+| Python | 6 | 30% | 7 |
+| TypeScript | 5 | 25% | 8 |
+| Rust | 4 | 20% | 3 |
+| Shell | 2 | 10% | 4 |
+| Zig | 1 | 5% | 1 |
+| Jupyter Notebook | 1 | 5% | 0 |
+| C | 1 | 5% | 0 |
 
 #### Topics
 
@@ -57,33 +59,33 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 | `mcp` | 6 |
 | `claude-code` | 5 |
 | `claude` | 3 |
+| `playwright` | 3 |
 | `codex` | 3 |
-| `anthropic` | 2 |
+| `automation` | 3 |
 | `rag` | 2 |
 | `claude-skills` | 2 |
+| `anthropic` | 2 |
 | `browser-automation` | 2 |
-| `playwright` | 2 |
 | `self-hosted` | 2 |
-| `computer-use` | 2 |
 
 #### Most persistent AI repos
 
 | Repo | Language | Days trending | Stars gained | Total stars |
 |---|---|--:|--:|--:|
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 2 | 3,329 | 111,176 |
-| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Shell | 2 | 2,346 | 34,037 |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 3 | 4,468 | 112,306 |
+| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Shell | 3 | 3,528 | 35,031 |
+| [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | 2 | 6,066 | 13,649 |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | 2 | 2,364 | 95,499 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 2 | 2,022 | 311,942 |
+| [anomalyco/hex](https://github.com/anomalyco/hex) | Rust | 2 | 1,589 | 4,809 |
+| [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | 2 | 1,121 | 39,063 |
 | [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) | Python | 2 | 895 | 16,360 |
+| [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | Rust | 2 | 515 | 10,706 |
 | [kornia/kornia](https://github.com/kornia/kornia) | Python | 2 | 513 | 12,263 |
-| [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | 1 | 2,275 | 11,224 |
-| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | Jupyter Notebook | 1 | 1,191 | 40,719 |
-| [anomalyco/hex](https://github.com/anomalyco/hex) | Rust | 1 | 1,179 | 3,713 |
-| [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | TypeScript | 1 | 922 | 10,910 |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 1 | 858 | 310,666 |
-| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Zig | 1 | 825 | 40,668 |
 
 ➡️ Last full weekly analysis: [2026-W44](reports/weekly/2026-W44.md) · [all reports](reports/weekly)
 
-_Tracking since 2026-10-01 · 34 day(s) of data · [raw data](data/trending.csv)_
+_Tracking since 2026-10-01 · 35 day(s) of data · [raw data](data/trending.csv)_
 <!-- TRACKER_END -->
 
 ## How it works
