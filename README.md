@@ -7,33 +7,35 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 ## Live view
 
 <!-- TRACKER_START -->
-### 🔥 AI repos trending today · 2026-11-04
+### 🔥 AI repos trending today · 2026-11-05
 
-11 of 13 trending repositories are AI-related.
+13 of 16 trending repositories are AI-related.
 
 | # | Repo | Language | ⭐ today | ⭐ total | Topics |
 |--:|---|---|--:|--:|---|
-| 1 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)<br><sub>Sponsor Star thedotmack / claude-mem Persistent Context Across Sessions for Every Agent – …</sub> | TypeScript | 1,139 | 112,306 | `ai` `ai-agents` `ai-memory` `anthropic` |
-| 2 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)<br><sub>Star vercel-labs / agent-desktop Computer use CLI for AI agents</sub> | Rust | 3,791 | 13,649 | `accessibility` `accessibility-api` `ai-agents` `automation` |
-| 3 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)<br><sub>Star max-sixty / worktrunk Worktrunk is a CLI for Git worktree management, designed for pa…</sub> | Rust | 438 | 10,706 | `agents` `claude-code` `codex` `developer-tools` |
-| 4 | [JustVugg/colibri](https://github.com/JustVugg/colibri)<br><sub>Star JustVugg / colibri A hierarchical inference engine for frontier MoE models: hot exper…</sub> | C | 802 | 47,469 | – |
-| 5 | [mattpocock/skills](https://github.com/mattpocock/skills)<br><sub>Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents direc…</sub> | Shell | 1,164 | 311,942 | – |
-| 6 | [p-e-w/heretic](https://github.com/p-e-w/heretic)<br><sub>Star p-e-w / heretic Training-free language model modification: Remove censorship, suppres…</sub> | Python | 701 | 39,063 | `abliteration` `anti-censorship` `anticensorship` `censorship` |
-| 7 | [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins)<br><sub></sub> | TypeScript | 91 | 3,110 | – |
-| 9 | [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor)<br><sub>Star Usagi-org / ai-goofish-monitor 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI…</sub> | Python | 228 | 16,935 | `ai` `ai-assistant` `ai-tools` `automation` |
-| 10 | [anomalyco/hex](https://github.com/anomalyco/hex)<br><sub>Sponsor Star anomalyco / hex Local voice dictation for mac, windows and linux</sub> | Rust | 410 | 4,809 | `dictation` `linux` `local-first` `macos` |
-| 11 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)<br><sub>Sponsor Star D4Vinci / Scrapling 🕷️ The BEST Web Scraping framework that handles everythin…</sub> | Python | 1,658 | 95,499 | `ai` `ai-scraping` `automation` `crawler` |
-| 13 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)<br><sub>Sponsor Star Donchitos / Claude-Code-Game-Studios Turn Claude Code into a full game dev st…</sub> | Shell | 1,182 | 35,031 | `ai-agents` `ai-assisted-development` `anthropic` `claude` |
+| 1 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)<br><sub>Star NVIDIA / auto-ontology Auto Ontology is a Python framework for building semantic, gra…</sub> | Python | 2,050 | 6,068 | – |
+| 2 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)<br><sub>Star max-sixty / worktrunk Worktrunk is a CLI for Git worktree management, designed for pa…</sub> | Rust | 531 | 11,254 | `agents` `claude-code` `codex` `developer-tools` |
+| 3 | [mattpocock/skills](https://github.com/mattpocock/skills)<br><sub>Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents direc…</sub> | Shell | 1,379 | 313,928 | – |
+| 5 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)<br><sub>Sponsor Star thedotmack / claude-mem Persistent Context Across Sessions for Every Agent – …</sub> | TypeScript | 1,172 | 113,191 | `ai` `ai-agents` `ai-memory` `anthropic` |
+| 6 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)<br><sub>Star vercel-labs / agent-desktop Computer use CLI for AI agents</sub> | Rust | 2,470 | 15,941 | `accessibility` `accessibility-api` `ai-agents` `automation` |
+| 7 | [github/spec-kit](https://github.com/github/spec-kit)<br><sub>Star github / spec-kit 💫 Toolkit to help you get started with SDD or any other process!</sub> | Python | 808 | 147,566 | `ai` `copilot` `development` `engineering` |
+| 8 | [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent)<br><sub>Star The-PR-Agent / pr-agent 🚀 PR Agent: The Original Open-Source PR Reviewer. This projec…</sub> | Python | 280 | 14,959 | `ai` `anthropic` `code-review` `coding-assistant` |
+| 9 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)<br><sub>Star harry0703 / MoneyPrinterTurbo 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short vi…</sub> | Python | 617 | 139,438 | `ai-video-generator` `content-creation` `ffmpeg` `instagram-reels` |
+| 10 | [garrytan/gstack](https://github.com/garrytan/gstack)<br><sub>Star garrytan / gstack Use Garry Tan's exact Claude Code setup: 23 opinionated tools that …</sub> | TypeScript | 290 | 139,560 | – |
+| 11 | [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)<br><sub>Star FareedKhan-dev / kimi-k3-in-c A 2.78-trillion-parameter Kimi K3 running inference on …</sub> | C | 351 | 10,590 | `avx2` `c99` `cpu-inference` `deep-learning` |
+| 14 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)<br><sub>Sponsor Star D4Vinci / Scrapling 🕷️ The BEST Web Scraping framework that handles everythin…</sub> | Python | 2,005 | 97,143 | `ai` `ai-scraping` `automation` `crawler` |
+| 15 | [Thysrael/Horizon](https://github.com/Thysrael/Horizon)<br><sub>Star Thysrael / Horizon 📡 Your own AI-powered news radar. Generates daily briefings in Eng…</sub> | Python | 121 | 12,777 | `aggregator` `feishu-bot` `llm` `mcp` |
+| 16 | [scenario-labs/skills](https://github.com/scenario-labs/skills)<br><sub>Star scenario-labs / skills Get production-ready images, video, audio, and 3D from any AI …</sub> | Python | 224 | 2,676 | `3d-models` `agent-skills` `ai-agents` `ai-art` |
 
 ### 📊 This week so far · 2026-W45
 
 #### Summary
 
-- **20** distinct AI repos trended over 3 day(s) (last week: 30)
-- AI share of all trending slots: **73%** (-9 pts vs last week)
-- Dominant language: **Python** (30% of AI repos)
-- Rising topics: `accessibility` (+2), `agents` (+2), `automation` (+2), `playwright` (+2), `transformer` (+2)
-- New this week: `accessibility`, `agents`, `transformer`
+- **28** distinct AI repos trended over 4 day(s) (last week: 30)
+- AI share of all trending slots: **75%** (-7 pts vs last week)
+- Dominant language: **Python** (43% of AI repos)
+- Rising topics: `mcp` (+3), `transformer` (+3), `accessibility` (+2), `agents` (+2), `automation` (+2)
+- New this week: `transformer`, `accessibility`, `model-context-protocol`, `agents`, `moe`, `openclaw`
 
 #### Languages
 
@@ -41,13 +43,13 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 
 | Language | Repos | Share | Last week |
 |---|--:|--:|--:|
-| Python | 6 | 30% | 7 |
-| TypeScript | 5 | 25% | 8 |
-| Rust | 4 | 20% | 3 |
-| Shell | 2 | 10% | 4 |
-| Zig | 1 | 5% | 1 |
-| Jupyter Notebook | 1 | 5% | 0 |
-| C | 1 | 5% | 0 |
+| Python | 12 | 43% | 7 |
+| TypeScript | 6 | 21% | 8 |
+| Rust | 4 | 14% | 3 |
+| Shell | 2 | 7% | 4 |
+| C | 2 | 7% | 0 |
+| Zig | 1 | 4% | 1 |
+| Jupyter Notebook | 1 | 4% | 0 |
 
 #### Topics
 
@@ -55,37 +57,37 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 
 | Topic | Repos this week |
 |---|--:|
-| `ai-agents` | 6 |
-| `mcp` | 6 |
-| `claude-code` | 5 |
+| `mcp` | 8 |
+| `ai-agents` | 7 |
+| `claude-code` | 6 |
+| `codex` | 4 |
 | `claude` | 3 |
+| `claude-skills` | 3 |
+| `anthropic` | 3 |
 | `playwright` | 3 |
-| `codex` | 3 |
+| `transformer` | 3 |
 | `automation` | 3 |
 | `rag` | 2 |
-| `claude-skills` | 2 |
-| `anthropic` | 2 |
 | `browser-automation` | 2 |
-| `self-hosted` | 2 |
 
 #### Most persistent AI repos
 
 | Repo | Language | Days trending | Stars gained | Total stars |
 |---|---|--:|--:|--:|
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 3 | 4,468 | 112,306 |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 4 | 5,640 | 113,191 |
+| [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | 3 | 8,536 | 15,941 |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | 3 | 4,369 | 97,143 |
 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Shell | 3 | 3,528 | 35,031 |
-| [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | 2 | 6,066 | 13,649 |
-| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | 2 | 2,364 | 95,499 |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 2 | 2,022 | 311,942 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 3 | 3,401 | 313,928 |
+| [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | Rust | 3 | 1,046 | 11,254 |
 | [anomalyco/hex](https://github.com/anomalyco/hex) | Rust | 2 | 1,589 | 4,809 |
 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | 2 | 1,121 | 39,063 |
 | [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) | Python | 2 | 895 | 16,360 |
-| [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | Rust | 2 | 515 | 10,706 |
 | [kornia/kornia](https://github.com/kornia/kornia) | Python | 2 | 513 | 12,263 |
 
 ➡️ Last full weekly analysis: [2026-W44](reports/weekly/2026-W44.md) · [all reports](reports/weekly)
 
-_Tracking since 2026-10-01 · 35 day(s) of data · [raw data](data/trending.csv)_
+_Tracking since 2026-10-01 · 36 day(s) of data · [raw data](data/trending.csv)_
 <!-- TRACKER_END -->
 
 ## How it works
