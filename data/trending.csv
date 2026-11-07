@@ -474,3 +474,21 @@ date,rank,repo,description,language,stars,forks,stars_today,topics,created_at,li
 2026-11-06,13,microsoft/VibeVoice,Star microsoft / VibeVoice Open-Source Frontier Voice AI,Python,56302,6340,223,,2025-08-25,MIT,1,trending
 2026-11-06,14,floci-io/floci,"Sponsor Star floci-io / floci Light, fluffy, and always free - The AWS Local Emulator alternative",Java,30662,3344,779,aws aws-emulation devops docker ec2 ecs localstack s3 sqs testcontainers,2026-02-18,MIT,0,trending
 2026-11-06,15,JiaFeiMiao-K-Cat/DiscImageStudio,,C#,7542,270,984,,2026-08-23,GPL-3.0,0,trending
+2026-11-07,1,zed-industries/zed,"Sponsor Star zed-industries / zed Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",Rust,93917,11526,306,gpui rust-lang text-editor zed,2021-02-20,,0,trending
+2026-11-07,2,NVIDIA/auto-ontology,"Star NVIDIA / auto-ontology Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",Python,9453,750,2015,,2026-04-27,Apache-2.0,1,trending
+2026-11-07,3,rails/rails,Star rails / rails Ruby on Rails,Ruby,59065,23834,142,activejob activerecord framework html mvc rails ruby,2008-04-11,MIT,0,trending
+2026-11-07,4,mpv-player/mpv,Star mpv-player / mpv 🎥 Command line media player,C,37948,3636,37,audio c ffmpeg mplayer mpv multimedia video,2012-10-13,,0,trending
+2026-11-07,5,rust-lang/rust,Star rust-lang / rust Empowering everyone to build reliable and efficient software.,Rust,121549,17369,192,compiler language rust,2010-06-16,Apache-2.0,0,trending
+2026-11-07,6,react/react,Star react / react The library for web and native user interfaces.,JavaScript,252323,51844,248,declarative frontend javascript library react ui,2013-05-24,MIT,0,trending
+2026-11-07,7,angular/angular,Star angular / angular Deliver web apps with confidence 🚀,TypeScript,101441,28917,135,angular javascript pwa typescript web web-framework web-performance,2014-09-18,MIT,0,trending
+2026-11-07,8,symfony/symfony,Star symfony / symfony The Symfony PHP framework,PHP,31496,9951,128,bundle framework hacktoberfest php php-framework symfony symfony-bundle,2010-01-04,MIT,0,trending
+2026-11-07,9,prometheus/prometheus,Star prometheus / prometheus The Prometheus monitoring system and time series database.,Go,67261,10992,148,alerting graphing hacktoberfest metrics monitoring prometheus time-series,2012-11-24,Apache-2.0,0,trending
+2026-11-07,10,google/skills,Star google / skills Agent Skills for Google products and technologies,Python,22988,1932,534,google googlecloud skills,2026-03-31,Apache-2.0,1,trending
+2026-11-07,11,microsoft/vscode,Star microsoft / vscode Visual Studio Code,TypeScript,195096,44436,301,editor electron microsoft typescript visual-studio-code,2015-09-03,MIT,0,trending
+2026-11-07,12,lz4/lz4,Star lz4 / lz4 Extremely Fast Compression algorithm,C,12662,1646,315,c compression lz4,2014-03-25,,0,trending
+2026-11-07,13,nushell/nushell,Star nushell / nushell A new type of shell,Rust,41035,2345,131,nushell rust shell,2019-05-10,MIT,0,trending
+2026-11-07,14,etcd-io/etcd,Star etcd-io / etcd Distributed reliable key-value store for the most critical data of a distributed system,Go,52658,10591,128,cncf consensus database distributed-database distributed-systems etcd go key-value kubernetes raft,2013-07-06,Apache-2.0,0,trending
+2026-11-07,15,openssl/openssl,Sponsor Star openssl / openssl General purpose TLS and crypto library,C,31348,11584,26,cryptography decryption encryption openssl ssl tls,2013-01-15,Apache-2.0,0,trending
+2026-11-07,16,mattpocock/skills,Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents directory.,Shell,317022,26532,2070,,2026-02-03,MIT,1,trending
+2026-11-07,17,cloudflare/security-audit-skill,"Star cloudflare / security-audit-skill A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",JavaScript,64548,4189,2548,,2026-06-18,MIT,1,trending
+2026-11-07,18,astral-sh/ruff,"Star astral-sh / ruff An extremely fast Python linter and code formatter, written in Rust.",Rust,50772,2618,169,linter pep8 python python3 ruff rust rustpython static-analysis static-code-analysis style-guide styleguide,2022-08-09,MIT,0,trending
