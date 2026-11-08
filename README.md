@@ -7,26 +7,47 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 ## Live view
 
 <!-- TRACKER_START -->
-### 🔥 AI repos trending today · 2026-11-07
+### 🔥 AI repos trending today · 2026-11-08
 
-4 of 18 trending repositories are AI-related.
+25 of 25 trending repositories are AI-related. _(trending page unavailable today, showing fast-rising new AI repos instead)_
 
 | # | Repo | Language | ⭐ today | ⭐ total | Topics |
 |--:|---|---|--:|--:|---|
-| 2 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)<br><sub>Star NVIDIA / auto-ontology Auto Ontology is a Python framework for building semantic, gra…</sub> | Python | 2,015 | 9,453 | – |
-| 10 | [google/skills](https://github.com/google/skills)<br><sub>Star google / skills Agent Skills for Google products and technologies</sub> | Python | 534 | 22,988 | `google` `googlecloud` `skills` |
-| 16 | [mattpocock/skills](https://github.com/mattpocock/skills)<br><sub>Sponsor Star mattpocock / skills Skills for Real Engineers. Straight from my .agents direc…</sub> | Shell | 2,070 | 317,022 | – |
-| 17 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)<br><sub>Star cloudflare / security-audit-skill A coding-agent skill for multi-phase security audit…</sub> | JavaScript | 2,548 | 64,548 | – |
+| 1 | [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop)<br><sub>让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。</sub> | TypeScript | 0 | 4,021 | `ai-agents` `automation` `claude-code` `cli` |
+| 2 | [Sandflow-ai/sand3d](https://github.com/Sandflow-ai/sand3d)<br><sub>3D modeling in Python, built for LLMs.</sub> | HTML | 0 | 1,159 | `3d` `blender` `cad` `llm` |
+| 3 | [voyager-so/vork](https://github.com/voyager-so/vork)<br><sub>Headless 3D and VFX engine for agents. Research preview.</sub> | Rust | 0 | 980 | `3d` `ai-agents` `gpu` `metal` |
+| 4 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki)<br><sub>Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra ha…</sub> | JavaScript | 0 | 543 | `ai-agents` `automation` `ios` `iphone` |
+| 5 | [SAOS-3624/dsh-see-now](https://github.com/SAOS-3624/dsh-see-now)<br><sub>让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token</sub> | JavaScript | 0 | 476 | `ai-agent` `dsh` `dsh-plugin` `ffmpeg` |
+| 6 | [HerdBuilderEstimate/roblox-studio-mcp](https://github.com/HerdBuilderEstimate/roblox-studio-mcp)<br><sub>Model Context Protocol server for Roblox Studio. Connect AI assistants (Claude, Cursor) to…</sub> | Python | 0 | 428 | `ai-tools` `automation` `claude` `cursor` |
+| 7 | [mrhlaingbwardev/agentic-hacking-skills](https://github.com/mrhlaingbwardev/agentic-hacking-skills)<br><sub>AI-Powered Web Security & Automation - Official bonus skills, agents & MCP configs for the…</sub> | JavaScript | 0 | 347 | `agents` `ai` `automation` `hacking` |
+| 8 | [duyunzhoudyz/dyz-med-paper-skills](https://github.com/duyunzhoudyz/dyz-med-paper-skills)<br><sub>医学论文写作与科研助手：面向中国医生和医学研究生的 32 个 Agent Skills，适用于 Claude Code、Codex，覆盖选题、PubMed 文献检索、中英写作、选刊…</sub> | Python | 0 | 317 | `academic-writing` `agent-skills` `ai-agents` `biostatistics` |
+| 9 | [shanselman/sandbox-mcp](https://github.com/shanselman/sandbox-mcp)<br><sub>Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automa…</sub> | JavaScript | 0 | 294 | `ai-agents` `mcp` `mcp-server` `testing` |
+| 10 | [yucezerey/turkish-anti-ai-skill](https://github.com/yucezerey/turkish-anti-ai-skill)<br><sub>Türkçe metinlerdeki yapay zeka izlerini (AI slop, translationese, çeviri kokan cümle mimar…</sub> | Python | 0 | 261 | `agent-skills` `ai-skills` `ai-writing` `claude-code` |
+| 11 | [Balanov/uncut](https://github.com/Balanov/uncut)<br><sub>The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain std…</sub> | Go | 0 | 256 | `agent-harness` `cli` `coding-agent` `go` |
+| 12 | [dhruvthakur11/youtube-ai-video-editing-system](https://github.com/dhruvthakur11/youtube-ai-video-editing-system)<br><sub>Eyeline teleprompter meets editing agents: JSON-driven animation and motion graphics workf…</sub> | HTML | 0 | 244 | `ai-agents` `ai-video-editing` `animation` `claude-design` |
+| 13 | [Glen-Web-App/best-agent-memory-mcp](https://github.com/Glen-Web-App/best-agent-memory-mcp)<br><sub>Best Agent Memory MCP servers, ranked and compared: long-term memory for Claude Code, Code…</sub> | – | 0 | 242 | `agent-memory` `ai-agents` `ai-memory` `awesome` |
+| 14 | [silverdugongenhance/PromptReel](https://github.com/silverdugongenhance/PromptReel)<br><sub>Free desktop app that turns a text prompt into a short video clip on your own PC. Local AI…</sub> | – | 0 | 210 | `ai-tools` `ai-video` `ai-video-clip` `ai-video-generator-crack` |
+| 15 | [gogoymh/auto-ontology-mcp](https://github.com/gogoymh/auto-ontology-mcp)<br><sub>NVIDIA Auto Ontology's semantic layer and a personal knowledge base as an MCP server for C…</sub> | Python | 0 | 160 | `chatgpt` `claude` `mcp` `mcp-server` |
+| 16 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills)<br><sub>Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and…</sub> | – | 0 | 149 | `agent-skills` `ai-agents` `collaboration` `human-in-the-loop` |
+| 17 | [zaxiu88888/issue-rag](https://github.com/zaxiu88888/issue-rag)<br><sub>RAG over GitHub issues, with a hand-reviewed eval set and an audit of the judge itself. Re…</sub> | Python | 0 | 139 | `evaluation` `github-issues` `llm` `llm-as-judge` |
+| 18 | [didilili/mianstack](https://github.com/didilili/mianstack)<br><sub>🚀 面栈 MianStack｜程序员面试题库天花板！Java、Python、数据库、算法、大模型、AI Agent、RAG 一栈备齐。真实面经关联高频考点，按公司、岗位定向备考；图…</sub> | JavaScript | 0 | 133 | `agent` `agentic-ai` `ai-agent` `ai-engineering` |
+| 19 | [wendersoon/radar-cnpj-mcp](https://github.com/wendersoon/radar-cnpj-mcp)<br><sub>Servidor MCP e CLI para localizar empresas brasileiras por CNAE e região, utilizando dados…</sub> | TypeScript | 0 | 129 | `cnae` `cnpj` `duckdb` `mcp` |
+| 20 | [liangjianshu/multimodal-image-retrieval](https://github.com/liangjianshu/multimodal-image-retrieval)<br><sub>多模态检索实战：意图识别、Prompt 工程、Qwen LoRA、EmbeddingGemma 2 与 InfoNCE 对比学习。含真实演示、自有数据接入、训练评测及 RAG 检索…</sub> | Python | 0 | 126 | `agent-tools` `clip` `contrastive-learning` `ecommerce` |
+| 21 | [yorkeccak/globalhackmap](https://github.com/yorkeccak/globalhackmap)<br><sub>Every hack, exploit and breach, live: new vulnerabilities, active exploits and breaches on…</sub> | TypeScript | 0 | 124 | `cve` `cybersecurity` `mapbox` `mcp` |
+| 22 | [orkbot-run/ork](https://github.com/orkbot-run/ork)<br><sub>Source-available AI assistant with persistent bots that share conversations and work on is…</sub> | TypeScript | 0 | 123 | `ai-agents` `ai-assistants` `automation` `electron` |
+| 23 | [howznguyen/shorts-kit](https://github.com/howznguyen/shorts-kit)<br><sub>Make narrated vertical shorts (TikTok, YouTube Shorts, Reels) with a coding agent and Remo…</sub> | TypeScript | 0 | 113 | `agent-skills` `ai-agents` `claude-code` `remotion` |
+| 24 | [TIGER-AI-Lab/WebsiteBench](https://github.com/TIGER-AI-Lab/WebsiteBench)<br><sub>Can AI agents rebuild websites through browser exploration?</sub> | Python | 0 | 109 | `agent-evaluation` `ai` `ai-agents` `benchmark` |
+| 25 | [supercli-site/awesome-coding-plan](https://github.com/supercli-site/awesome-coding-plan)<br><sub>TokenPlan：AI 编程套餐与 API 价格对比，涵盖云厂商 Coding / Token Plan、缓存与峰谷计费、模型性价比及官方购买入口。 / AI coding pl…</sub> | TypeScript | 0 | 102 | `ai-agents` `ai-coding` `ai-models` `api-pricing` |
 
 ### 📊 This week so far · 2026-W45
 
 #### Summary
 
-- **33** distinct AI repos trended over 6 day(s) (last week: 30)
-- AI share of all trending slots: **66%** (-17 pts vs last week)
-- Dominant language: **Python** (42% of AI repos)
-- Rising topics: `mcp` (+3), `transformer` (+3), `accessibility` (+2), `agents` (+2), `automation` (+2)
-- New this week: `transformer`, `accessibility`, `model-context-protocol`, `agents`, `moe`, `workflow-automation`
+- **58** distinct AI repos trended over 7 day(s) (last week: 30)
+- AI share of all trending slots: **73%** (-9 pts vs last week)
+- Dominant language: **Python** (36% of AI repos)
+- Rising topics: `mcp` (+12), `ai-agents` (+11), `automation` (+7), `model-context-protocol` (+6), `mcp-server` (+5)
+- New this week: `model-context-protocol`, `mcp-server`, `agents`, `transformer`, `generative-ai`, `accessibility`
 
 #### Languages
 
@@ -34,14 +55,16 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 
 | Language | Repos | Share | Last week |
 |---|--:|--:|--:|
-| Python | 14 | 42% | 7 |
-| TypeScript | 6 | 18% | 8 |
-| Rust | 5 | 15% | 3 |
-| Shell | 2 | 6% | 4 |
-| C | 2 | 6% | 0 |
-| JavaScript | 2 | 6% | 3 |
-| Zig | 1 | 3% | 1 |
-| Jupyter Notebook | 1 | 3% | 0 |
+| Python | 21 | 36% | 7 |
+| TypeScript | 12 | 21% | 8 |
+| JavaScript | 7 | 12% | 3 |
+| Rust | 6 | 10% | 3 |
+| Unspecified | 3 | 5% | 2 |
+| Shell | 2 | 3% | 4 |
+| C | 2 | 3% | 0 |
+| HTML | 2 | 3% | 1 |
+| Zig | 1 | 2% | 1 |
+| Jupyter Notebook | 1 | 2% | 0 |
 
 #### Topics
 
@@ -49,18 +72,18 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 
 | Topic | Repos this week |
 |---|--:|
-| `mcp` | 8 |
-| `ai-agents` | 7 |
-| `claude-code` | 6 |
-| `claude` | 4 |
-| `codex` | 4 |
-| `anthropic` | 3 |
-| `rag` | 3 |
-| `claude-skills` | 3 |
-| `playwright` | 3 |
-| `transformer` | 3 |
-| `automation` | 3 |
-| `browser-automation` | 2 |
+| `ai-agents` | 19 |
+| `mcp` | 17 |
+| `claude-code` | 11 |
+| `codex` | 8 |
+| `automation` | 8 |
+| `rag` | 6 |
+| `claude` | 6 |
+| `model-context-protocol` | 6 |
+| `agent-skills` | 6 |
+| `mcp-server` | 5 |
+| `self-hosted` | 4 |
+| `ai-tools` | 4 |
 
 #### Most persistent AI repos
 
@@ -79,7 +102,7 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 
 ➡️ Last full weekly analysis: [2026-W44](reports/weekly/2026-W44.md) · [all reports](reports/weekly)
 
-_Tracking since 2026-10-01 · 38 day(s) of data · [raw data](data/trending.csv)_
+_Tracking since 2026-10-01 · 39 day(s) of data · [raw data](data/trending.csv)_
 <!-- TRACKER_END -->
 
 ## How it works
