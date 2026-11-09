@@ -7,102 +7,71 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 ## Live view
 
 <!-- TRACKER_START -->
-### 🔥 AI repos trending today · 2026-11-08
+### 🔥 AI repos trending today · 2026-11-09
 
-25 of 25 trending repositories are AI-related. _(trending page unavailable today, showing fast-rising new AI repos instead)_
+6 of 9 trending repositories are AI-related.
 
 | # | Repo | Language | ⭐ today | ⭐ total | Topics |
 |--:|---|---|--:|--:|---|
-| 1 | [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop)<br><sub>让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。</sub> | TypeScript | 0 | 4,021 | `ai-agents` `automation` `claude-code` `cli` |
-| 2 | [Sandflow-ai/sand3d](https://github.com/Sandflow-ai/sand3d)<br><sub>3D modeling in Python, built for LLMs.</sub> | HTML | 0 | 1,159 | `3d` `blender` `cad` `llm` |
-| 3 | [voyager-so/vork](https://github.com/voyager-so/vork)<br><sub>Headless 3D and VFX engine for agents. Research preview.</sub> | Rust | 0 | 980 | `3d` `ai-agents` `gpu` `metal` |
-| 4 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki)<br><sub>Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra ha…</sub> | JavaScript | 0 | 543 | `ai-agents` `automation` `ios` `iphone` |
-| 5 | [SAOS-3624/dsh-see-now](https://github.com/SAOS-3624/dsh-see-now)<br><sub>让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token</sub> | JavaScript | 0 | 476 | `ai-agent` `dsh` `dsh-plugin` `ffmpeg` |
-| 6 | [HerdBuilderEstimate/roblox-studio-mcp](https://github.com/HerdBuilderEstimate/roblox-studio-mcp)<br><sub>Model Context Protocol server for Roblox Studio. Connect AI assistants (Claude, Cursor) to…</sub> | Python | 0 | 428 | `ai-tools` `automation` `claude` `cursor` |
-| 7 | [mrhlaingbwardev/agentic-hacking-skills](https://github.com/mrhlaingbwardev/agentic-hacking-skills)<br><sub>AI-Powered Web Security & Automation - Official bonus skills, agents & MCP configs for the…</sub> | JavaScript | 0 | 347 | `agents` `ai` `automation` `hacking` |
-| 8 | [duyunzhoudyz/dyz-med-paper-skills](https://github.com/duyunzhoudyz/dyz-med-paper-skills)<br><sub>医学论文写作与科研助手：面向中国医生和医学研究生的 32 个 Agent Skills，适用于 Claude Code、Codex，覆盖选题、PubMed 文献检索、中英写作、选刊…</sub> | Python | 0 | 317 | `academic-writing` `agent-skills` `ai-agents` `biostatistics` |
-| 9 | [shanselman/sandbox-mcp](https://github.com/shanselman/sandbox-mcp)<br><sub>Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI that automa…</sub> | JavaScript | 0 | 294 | `ai-agents` `mcp` `mcp-server` `testing` |
-| 10 | [yucezerey/turkish-anti-ai-skill](https://github.com/yucezerey/turkish-anti-ai-skill)<br><sub>Türkçe metinlerdeki yapay zeka izlerini (AI slop, translationese, çeviri kokan cümle mimar…</sub> | Python | 0 | 261 | `agent-skills` `ai-skills` `ai-writing` `claude-code` |
-| 11 | [Balanov/uncut](https://github.com/Balanov/uncut)<br><sub>The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain std…</sub> | Go | 0 | 256 | `agent-harness` `cli` `coding-agent` `go` |
-| 12 | [dhruvthakur11/youtube-ai-video-editing-system](https://github.com/dhruvthakur11/youtube-ai-video-editing-system)<br><sub>Eyeline teleprompter meets editing agents: JSON-driven animation and motion graphics workf…</sub> | HTML | 0 | 244 | `ai-agents` `ai-video-editing` `animation` `claude-design` |
-| 13 | [Glen-Web-App/best-agent-memory-mcp](https://github.com/Glen-Web-App/best-agent-memory-mcp)<br><sub>Best Agent Memory MCP servers, ranked and compared: long-term memory for Claude Code, Code…</sub> | – | 0 | 242 | `agent-memory` `ai-agents` `ai-memory` `awesome` |
-| 14 | [silverdugongenhance/PromptReel](https://github.com/silverdugongenhance/PromptReel)<br><sub>Free desktop app that turns a text prompt into a short video clip on your own PC. Local AI…</sub> | – | 0 | 210 | `ai-tools` `ai-video` `ai-video-clip` `ai-video-generator-crack` |
-| 15 | [gogoymh/auto-ontology-mcp](https://github.com/gogoymh/auto-ontology-mcp)<br><sub>NVIDIA Auto Ontology's semantic layer and a personal knowledge base as an MCP server for C…</sub> | Python | 0 | 160 | `chatgpt` `claude` `mcp` `mcp-server` |
-| 16 | [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills)<br><sub>Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and…</sub> | – | 0 | 149 | `agent-skills` `ai-agents` `collaboration` `human-in-the-loop` |
-| 17 | [zaxiu88888/issue-rag](https://github.com/zaxiu88888/issue-rag)<br><sub>RAG over GitHub issues, with a hand-reviewed eval set and an audit of the judge itself. Re…</sub> | Python | 0 | 139 | `evaluation` `github-issues` `llm` `llm-as-judge` |
-| 18 | [didilili/mianstack](https://github.com/didilili/mianstack)<br><sub>🚀 面栈 MianStack｜程序员面试题库天花板！Java、Python、数据库、算法、大模型、AI Agent、RAG 一栈备齐。真实面经关联高频考点，按公司、岗位定向备考；图…</sub> | JavaScript | 0 | 133 | `agent` `agentic-ai` `ai-agent` `ai-engineering` |
-| 19 | [wendersoon/radar-cnpj-mcp](https://github.com/wendersoon/radar-cnpj-mcp)<br><sub>Servidor MCP e CLI para localizar empresas brasileiras por CNAE e região, utilizando dados…</sub> | TypeScript | 0 | 129 | `cnae` `cnpj` `duckdb` `mcp` |
-| 20 | [liangjianshu/multimodal-image-retrieval](https://github.com/liangjianshu/multimodal-image-retrieval)<br><sub>多模态检索实战：意图识别、Prompt 工程、Qwen LoRA、EmbeddingGemma 2 与 InfoNCE 对比学习。含真实演示、自有数据接入、训练评测及 RAG 检索…</sub> | Python | 0 | 126 | `agent-tools` `clip` `contrastive-learning` `ecommerce` |
-| 21 | [yorkeccak/globalhackmap](https://github.com/yorkeccak/globalhackmap)<br><sub>Every hack, exploit and breach, live: new vulnerabilities, active exploits and breaches on…</sub> | TypeScript | 0 | 124 | `cve` `cybersecurity` `mapbox` `mcp` |
-| 22 | [orkbot-run/ork](https://github.com/orkbot-run/ork)<br><sub>Source-available AI assistant with persistent bots that share conversations and work on is…</sub> | TypeScript | 0 | 123 | `ai-agents` `ai-assistants` `automation` `electron` |
-| 23 | [howznguyen/shorts-kit](https://github.com/howznguyen/shorts-kit)<br><sub>Make narrated vertical shorts (TikTok, YouTube Shorts, Reels) with a coding agent and Remo…</sub> | TypeScript | 0 | 113 | `agent-skills` `ai-agents` `claude-code` `remotion` |
-| 24 | [TIGER-AI-Lab/WebsiteBench](https://github.com/TIGER-AI-Lab/WebsiteBench)<br><sub>Can AI agents rebuild websites through browser exploration?</sub> | Python | 0 | 109 | `agent-evaluation` `ai` `ai-agents` `benchmark` |
-| 25 | [supercli-site/awesome-coding-plan](https://github.com/supercli-site/awesome-coding-plan)<br><sub>TokenPlan：AI 编程套餐与 API 价格对比，涵盖云厂商 Coding / Token Plan、缓存与峰谷计费、模型性价比及官方购买入口。 / AI coding pl…</sub> | TypeScript | 0 | 102 | `ai-agents` `ai-coding` `ai-models` `api-pricing` |
+| 2 | [dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke)<br><sub>Star dsx-ai-factory / nvke NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kub…</sub> | Go | 345 | 977 | `bare-metal` `cluster-api` `gpu` `kubernetes` |
+| 3 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)<br><sub>Sponsor Star milind-soni / OpenMausBot Open-source Grok Bot alternative with a virtual mac…</sub> | TypeScript | 1,439 | 19,023 | `ai-agents` `claude-code` `codex` `computer-use` |
+| 4 | [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts)<br><sub>Star anthropics / claude-quickstarts A collection of projects designed to help developers …</sub> | Python | 32 | 19,672 | – |
+| 5 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)<br><sub>Star vercel-labs / agent-browser Browser automation CLI for AI agents</sub> | Rust | 815 | 48,025 | – |
+| 6 | [meta/astryx](https://github.com/meta/astryx)<br><sub>Star meta / astryx An open source design system that's fully customizable and agent ready</sub> | TypeScript | 875 | 18,021 | – |
+| 7 | [anthropics/skills](https://github.com/anthropics/skills)<br><sub>Star anthropics / skills Public repository for Agent Skills</sub> | Python | 792 | 190,025 | `agent-skills` |
 
-### 📊 This week so far · 2026-W45
+### 📊 This week so far · 2026-W46
 
 #### Summary
 
-- **58** distinct AI repos trended over 7 day(s) (last week: 30)
-- AI share of all trending slots: **73%** (-9 pts vs last week)
-- Dominant language: **Python** (36% of AI repos)
-- Rising topics: `mcp` (+12), `ai-agents` (+11), `automation` (+7), `model-context-protocol` (+6), `mcp-server` (+5)
-- New this week: `model-context-protocol`, `mcp-server`, `agents`, `transformer`, `generative-ai`, `accessibility`
+- **6** distinct AI repos trended over 1 day(s) (last week: 58)
+- AI share of all trending slots: **67%** (-6 pts vs last week)
+- No single dominant language: Python, TypeScript tied at 2 repo(s) each
 
 #### Languages
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="charts/2026-W45-languages-dark.png"><img alt="Languages of trending AI repos" src="charts/2026-W45-languages.png"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="charts/2026-W46-languages-dark.png"><img alt="Languages of trending AI repos" src="charts/2026-W46-languages.png"></picture>
 
 | Language | Repos | Share | Last week |
 |---|--:|--:|--:|
-| Python | 21 | 36% | 7 |
-| TypeScript | 12 | 21% | 8 |
-| JavaScript | 7 | 12% | 3 |
-| Rust | 6 | 10% | 3 |
-| Unspecified | 3 | 5% | 2 |
-| Shell | 2 | 3% | 4 |
-| C | 2 | 3% | 0 |
-| HTML | 2 | 3% | 1 |
-| Zig | 1 | 2% | 1 |
-| Jupyter Notebook | 1 | 2% | 0 |
+| TypeScript | 2 | 33% | 12 |
+| Python | 2 | 33% | 21 |
+| Go | 1 | 17% | 1 |
+| Rust | 1 | 17% | 6 |
 
 #### Topics
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="charts/2026-W45-topics-dark.png"><img alt="Topic movers" src="charts/2026-W45-topics.png"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="charts/2026-W46-topics-dark.png"><img alt="Topic movers" src="charts/2026-W46-topics.png"></picture>
 
 | Topic | Repos this week |
 |---|--:|
-| `ai-agents` | 19 |
-| `mcp` | 17 |
-| `claude-code` | 11 |
-| `codex` | 8 |
-| `automation` | 8 |
-| `rag` | 6 |
-| `claude` | 6 |
-| `model-context-protocol` | 6 |
-| `agent-skills` | 6 |
-| `mcp-server` | 5 |
-| `self-hosted` | 4 |
-| `ai-tools` | 4 |
+| `bare-metal` | 1 |
+| `kubernetes` | 1 |
+| `gpu` | 1 |
+| `nvidia` | 1 |
+| `cluster-api` | 1 |
+| `electron` | 1 |
+| `docker` | 1 |
+| `grok` | 1 |
+| `grok-bot` | 1 |
+| `grok-bot-alternative` | 1 |
+| `ai-agents` | 1 |
+| `computer-use` | 1 |
 
 #### Most persistent AI repos
 
 | Repo | Language | Days trending | Stars gained | Total stars |
 |---|---|--:|--:|--:|
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 5 | 7,542 | 317,022 |
-| [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | 4 | 10,709 | 17,503 |
-| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | 4 | 6,024 | 98,457 |
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 4 | 5,640 | 113,191 |
-| [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | Rust | 4 | 1,592 | 11,684 |
-| [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | Python | 3 | 6,744 | 9,453 |
-| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Shell | 3 | 3,528 | 35,031 |
-| [anomalyco/hex](https://github.com/anomalyco/hex) | Rust | 2 | 1,589 | 4,809 |
-| [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | 2 | 1,121 | 39,063 |
-| [garrytan/gstack](https://github.com/garrytan/gstack) | TypeScript | 2 | 902 | 140,235 |
+| [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | TypeScript | 1 | 1,439 | 19,023 |
+| [meta/astryx](https://github.com/meta/astryx) | TypeScript | 1 | 875 | 18,021 |
+| [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Rust | 1 | 815 | 48,025 |
+| [anthropics/skills](https://github.com/anthropics/skills) | Python | 1 | 792 | 190,025 |
+| [dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke) | Go | 1 | 345 | 977 |
+| [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | Python | 1 | 32 | 19,672 |
 
-➡️ Last full weekly analysis: [2026-W44](reports/weekly/2026-W44.md) · [all reports](reports/weekly)
+➡️ Last full weekly analysis: [2026-W45](reports/weekly/2026-W45.md) · [all reports](reports/weekly)
 
-_Tracking since 2026-10-01 · 39 day(s) of data · [raw data](data/trending.csv)_
+_Tracking since 2026-10-01 · 40 day(s) of data · [raw data](data/trending.csv)_
 <!-- TRACKER_END -->
 
 ## How it works
