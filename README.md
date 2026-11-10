@@ -7,26 +7,31 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 ## Live view
 
 <!-- TRACKER_START -->
-### 🔥 AI repos trending today · 2026-11-09
+### 🔥 AI repos trending today · 2026-11-10
 
-6 of 9 trending repositories are AI-related.
+9 of 11 trending repositories are AI-related.
 
 | # | Repo | Language | ⭐ today | ⭐ total | Topics |
 |--:|---|---|--:|--:|---|
-| 2 | [dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke)<br><sub>Star dsx-ai-factory / nvke NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kub…</sub> | Go | 345 | 977 | `bare-metal` `cluster-api` `gpu` `kubernetes` |
-| 3 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)<br><sub>Sponsor Star milind-soni / OpenMausBot Open-source Grok Bot alternative with a virtual mac…</sub> | TypeScript | 1,439 | 19,023 | `ai-agents` `claude-code` `codex` `computer-use` |
-| 4 | [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts)<br><sub>Star anthropics / claude-quickstarts A collection of projects designed to help developers …</sub> | Python | 32 | 19,672 | – |
-| 5 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)<br><sub>Star vercel-labs / agent-browser Browser automation CLI for AI agents</sub> | Rust | 815 | 48,025 | – |
-| 6 | [meta/astryx](https://github.com/meta/astryx)<br><sub>Star meta / astryx An open source design system that's fully customizable and agent ready</sub> | TypeScript | 875 | 18,021 | – |
-| 7 | [anthropics/skills](https://github.com/anthropics/skills)<br><sub>Star anthropics / skills Public repository for Agent Skills</sub> | Python | 792 | 190,025 | `agent-skills` |
+| 1 | [anthropics/skills](https://github.com/anthropics/skills)<br><sub>Star anthropics / skills Public repository for Agent Skills</sub> | Python | 1,038 | 191,592 | `agent-skills` |
+| 2 | [meta/astryx](https://github.com/meta/astryx)<br><sub>Star meta / astryx An open source design system that's fully customizable and agent ready</sub> | TypeScript | 3,278 | 21,157 | – |
+| 5 | [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts)<br><sub>Star anthropics / claude-quickstarts A collection of projects designed to help developers …</sub> | Python | 551 | 20,209 | – |
+| 6 | [garrytan/gbrain](https://github.com/garrytan/gbrain)<br><sub>Star garrytan / gbrain Garry's Opinionated OpenClaw/Hermes Agent Brain</sub> | TypeScript | 216 | 32,369 | – |
+| 7 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)<br><sub>Star vercel-labs / agent-browser Browser automation CLI for AI agents</sub> | Rust | 916 | 48,823 | – |
+| 8 | [ruvnet/RuView](https://github.com/ruvnet/RuView)<br><sub>Star ruvnet / RuView π RuView turns commodity WiFi signals into real-time spatial intellig…</sub> | Rust | 172 | 103,747 | `claude` `claude-code` `esp32` `firmware` |
+| 9 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)<br><sub>Star ZhuLinsen / daily_stock_analysis LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LL…</sub> | Python | 506 | 69,396 | `a-stock` `ai-agent` `aigc` `llm` |
+| 10 | [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp)<br><sub>Star homeassistant-ai / ha-mcp Configure and automate Home Assistant with Claude, ChatGPT,…</sub> | Python | 31 | 6,268 | `ai` `claude` `hacs` `home-assistant` |
+| 11 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)<br><sub>Sponsor Star milind-soni / OpenMausBot Open-source Grok Bot alternative with a virtual mac…</sub> | TypeScript | 1,587 | 20,240 | `ai-agents` `claude-code` `codex` `computer-use` |
 
 ### 📊 This week so far · 2026-W46
 
 #### Summary
 
-- **6** distinct AI repos trended over 1 day(s) (last week: 58)
-- AI share of all trending slots: **67%** (-6 pts vs last week)
-- No single dominant language: Python, TypeScript tied at 2 repo(s) each
+- **10** distinct AI repos trended over 2 day(s) (last week: 58)
+- AI share of all trending slots: **75%** (+2 pts vs last week)
+- Dominant language: **Python** (40% of AI repos)
+- Rising topics: `home-assistant` (+2), `home-automation` (+2)
+- New this week: `home-assistant`, `home-automation`
 
 #### Languages
 
@@ -34,10 +39,10 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 
 | Language | Repos | Share | Last week |
 |---|--:|--:|--:|
-| TypeScript | 2 | 33% | 12 |
-| Python | 2 | 33% | 21 |
-| Go | 1 | 17% | 1 |
-| Rust | 1 | 17% | 6 |
+| Python | 4 | 40% | 21 |
+| TypeScript | 3 | 30% | 12 |
+| Rust | 2 | 20% | 6 |
+| Go | 1 | 10% | 1 |
 
 #### Topics
 
@@ -45,33 +50,37 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 
 | Topic | Repos this week |
 |---|--:|
-| `bare-metal` | 1 |
-| `kubernetes` | 1 |
-| `gpu` | 1 |
+| `claude-code` | 2 |
+| `claude` | 2 |
+| `home-assistant` | 2 |
+| `mcp` | 2 |
+| `home-automation` | 2 |
 | `nvidia` | 1 |
+| `kubernetes` | 1 |
+| `bare-metal` | 1 |
+| `gpu` | 1 |
 | `cluster-api` | 1 |
-| `electron` | 1 |
-| `docker` | 1 |
-| `grok` | 1 |
-| `grok-bot` | 1 |
-| `grok-bot-alternative` | 1 |
-| `ai-agents` | 1 |
 | `computer-use` | 1 |
+| `grok-bot-alternative` | 1 |
 
 #### Most persistent AI repos
 
 | Repo | Language | Days trending | Stars gained | Total stars |
 |---|---|--:|--:|--:|
-| [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | TypeScript | 1 | 1,439 | 19,023 |
-| [meta/astryx](https://github.com/meta/astryx) | TypeScript | 1 | 875 | 18,021 |
-| [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Rust | 1 | 815 | 48,025 |
-| [anthropics/skills](https://github.com/anthropics/skills) | Python | 1 | 792 | 190,025 |
+| [meta/astryx](https://github.com/meta/astryx) | TypeScript | 2 | 4,153 | 21,157 |
+| [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | TypeScript | 2 | 3,026 | 20,240 |
+| [anthropics/skills](https://github.com/anthropics/skills) | Python | 2 | 1,830 | 191,592 |
+| [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Rust | 2 | 1,731 | 48,823 |
+| [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | Python | 2 | 583 | 20,209 |
+| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | 1 | 506 | 69,396 |
 | [dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke) | Go | 1 | 345 | 977 |
-| [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | Python | 1 | 32 | 19,672 |
+| [garrytan/gbrain](https://github.com/garrytan/gbrain) | TypeScript | 1 | 216 | 32,369 |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 1 | 172 | 103,747 |
+| [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | Python | 1 | 31 | 6,268 |
 
 ➡️ Last full weekly analysis: [2026-W45](reports/weekly/2026-W45.md) · [all reports](reports/weekly)
 
-_Tracking since 2026-10-01 · 40 day(s) of data · [raw data](data/trending.csv)_
+_Tracking since 2026-10-01 · 41 day(s) of data · [raw data](data/trending.csv)_
 <!-- TRACKER_END -->
 
 ## How it works
