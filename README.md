@@ -7,33 +7,33 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 ## Live view
 
 <!-- TRACKER_START -->
-### 🔥 AI repos trending today · 2026-11-17
+### 🔥 AI repos trending today · 2026-11-18
 
 12 of 15 trending repositories are AI-related.
 
 | # | Repo | Language | ⭐ today | ⭐ total | Topics |
 |--:|---|---|--:|--:|---|
-| 1 | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui)<br><sub>Star ag-ui-protocol / ag-ui AG-UI: the Agent-User Interaction Protocol. Bring Agents into …</sub> | TypeScript | 791 | 19,712 | `ag-ui-protocol` `agent-frontend` `agent-ui` `agentic-workflow` |
-| 2 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator)<br><sub>Star backnotprop / plannotator The workspace to stay in the loop and on top of agents - sh…</sub> | TypeScript | 696 | 12,858 | `agents` `claude-code` `code-review` `codex` |
-| 3 | [dream-num/univer](https://github.com/dream-num/univer)<br><sub>Star dream-num / univer Build your own AI office with Univer Office SDK. Bring editing, ca…</sub> | TypeScript | 1,828 | 28,611 | `board` `collaboration` `doc` `docx` |
-| 4 | [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)<br><sub>Star tradermonty / claude-trading-skills Claude Code skills for equity investors and trade…</sub> | Python | 837 | 6,688 | – |
-| 5 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)<br><sub>Sponsor Star elementalsouls / Claude-BugHunter A Claude Code skill bundle for bug hunting …</sub> | Python | 1,094 | 7,927 | `ai-security` `anthropic` `application-security` `bug-bounty` |
-| 8 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)<br><sub>Star google-labs-code / stitch-skills A library of Agent Skills designed to work with the …</sub> | TypeScript | 529 | 9,890 | – |
-| 9 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)<br><sub>Star mvanhorn / last30days-skill AI agent skill that researches any topic across Reddit, X…</sub> | Python | 135 | 68,484 | `ai-prompts` `ai-skill` `bluesky` `claude` |
-| 10 | [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator)<br><sub>Star NVIDIA / SkillEvaluator Multi-tier framework for evaluating AI agent skills and plugi…</sub> | Python | 873 | 3,118 | `agent-evaluation` `agent-plugins` `agent-security` `agent-skills` |
-| 11 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review)<br><sub>Star alibaba / open-code-review Secure, fast, efficient, battle-tested at Alibaba's scale.…</sub> | Go | 951 | 53,308 | `agent` `agent-skills` `code-review` `code-review-assistant` |
-| 12 | [google-research/paper-orchestra](https://github.com/google-research/paper-orchestra)<br><sub>Star google-research / paper-orchestra PaperOrchestra is a multi-agent framework for autom…</sub> | Python | 313 | 2,035 | `ai-research-assistant` `multi-agent-systems` |
-| 13 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)<br><sub>Star ChromeDevTools / chrome-devtools-mcp Chrome DevTools for coding agents</sub> | TypeScript | 841 | 57,912 | `browser` `chrome` `chrome-devtools` `debugging` |
-| 15 | [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill)<br><sub>Sponsor Star kajisho5 / ffmpeg-skill Local video editor for coding agents: 42 FFmpeg tools…</sub> | Python | 367 | 7,435 | `agent-skills` `ai-agents` `audio-processing` `captions` |
+| 1 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)<br><sub>Sponsor Star elementalsouls / Claude-BugHunter A Claude Code skill bundle for bug hunting …</sub> | Python | 1,005 | 10,199 | `ai-security` `anthropic` `application-security` `bug-bounty` |
+| 2 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)<br><sub>Star mvanhorn / last30days-skill AI agent skill that researches any topic across Reddit, X…</sub> | Python | 696 | 69,495 | `ai-prompts` `ai-skill` `bluesky` `claude` |
+| 3 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review)<br><sub>Star alibaba / open-code-review Secure, fast, efficient, battle-tested at Alibaba's scale.…</sub> | Go | 763 | 54,051 | `agent` `agent-skills` `code-review` `code-review-assistant` |
+| 4 | [Tencent/LoopForge](https://github.com/Tencent/LoopForge)<br><sub>Star Tencent / LoopForge Self-hosted workflows for coding-agent delivery. Orchestrate Code…</sub> | Go | 591 | 3,675 | `agent-orchestration` `agentic-workflow` `ai-agents` `ai-coding` |
+| 5 | [dream-num/univer](https://github.com/dream-num/univer)<br><sub>Star dream-num / univer Build your own AI office with Univer Office SDK. Bring editing, ca…</sub> | TypeScript | 1,774 | 29,742 | `board` `collaboration` `doc` `docx` |
+| 7 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)<br><sub>Star google-labs-code / stitch-skills A library of Agent Skills designed to work with the …</sub> | TypeScript | 350 | 10,251 | – |
+| 9 | [obra/superpowers](https://github.com/obra/superpowers)<br><sub>Sponsor Star obra / superpowers An agentic skills framework & software development methodo…</sub> | Shell | 1,917 | 319,644 | `ai` `brainstorming` `coding` `obra` |
+| 10 | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui)<br><sub>Star ag-ui-protocol / ag-ui AG-UI: the Agent-User Interaction Protocol. Bring Agents into …</sub> | TypeScript | 1,445 | 20,234 | `ag-ui-protocol` `agent-frontend` `agent-ui` `agentic-workflow` |
+| 11 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator)<br><sub>Star backnotprop / plannotator The workspace to stay in the loop and on top of agents - sh…</sub> | TypeScript | 691 | 13,232 | `agents` `claude-code` `code-review` `codex` |
+| 13 | [affaan-m/ECC](https://github.com/affaan-m/ECC)<br><sub>Sponsor Star affaan-m / ECC The agent harness performance optimization system. Skills, ins…</sub> | JavaScript | 883 | 305,958 | `ai-agents` `anthropic` `claude` `claude-code` |
+| 14 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind)<br><sub>Star jingyaogong / minimind 🧠 Train a 64M-parameter LLM from scratch in just 2h!</sub> | Python | 192 | 66,372 | `artificial-intelligence` `large-language-model` |
+| 15 | [google-research/paper-orchestra](https://github.com/google-research/paper-orchestra)<br><sub>Star google-research / paper-orchestra PaperOrchestra is a multi-agent framework for autom…</sub> | Python | 1,072 | 3,546 | `ai-research-assistant` `multi-agent-systems` |
 
 ### 📊 This week so far · 2026-W47
 
 #### Summary
 
-- **15** distinct AI repos trended over 2 day(s) (last week: 28)
-- AI share of all trending slots: **89%** (+19 pts vs last week)
-- No single dominant language: Python, TypeScript tied at 6 repo(s) each
-- Rising topics: `mcp-server` (+1)
+- **18** distinct AI repos trended over 3 day(s) (last week: 28)
+- AI share of all trending slots: **86%** (+16 pts vs last week)
+- Dominant language: **Python** (39% of AI repos)
+- Rising topics: `anthropic` (+1), `claude-code` (+1), `mcp-server` (+1), `sdlc` (+1), `skills` (+1)
 
 #### Languages
 
@@ -41,10 +41,12 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 
 | Language | Repos | Share | Last week |
 |---|--:|--:|--:|
-| TypeScript | 6 | 40% | 11 |
-| Python | 6 | 40% | 6 |
-| Go | 2 | 13% | 4 |
-| C++ | 1 | 7% | 2 |
+| Python | 7 | 39% | 6 |
+| TypeScript | 6 | 33% | 11 |
+| Go | 2 | 11% | 4 |
+| C++ | 1 | 6% | 2 |
+| Shell | 1 | 6% | 1 |
+| JavaScript | 1 | 6% | 1 |
 
 #### Topics
 
@@ -52,37 +54,37 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 
 | Topic | Repos this week |
 |---|--:|
-| `claude-code` | 6 |
+| `claude-code` | 7 |
+| `ai-agents` | 4 |
 | `codex` | 4 |
-| `ai-agents` | 3 |
+| `mcp` | 4 |
+| `skills` | 3 |
 | `code-review` | 3 |
-| `mcp` | 3 |
 | `agent-skills` | 3 |
+| `claude` | 3 |
 | `agentic-workflow` | 2 |
-| `skills` | 2 |
 | `mcp-server` | 2 |
+| `sdlc` | 2 |
 | `cursor` | 2 |
-| `claude` | 2 |
-| `pptx` | 1 |
 
 #### Most persistent AI repos
 
 | Repo | Language | Days trending | Stars gained | Total stars |
 |---|---|--:|--:|--:|
-| [dream-num/univer](https://github.com/dream-num/univer) | TypeScript | 2 | 2,816 | 28,611 |
-| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | 2 | 1,642 | 53,308 |
-| [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | TypeScript | 2 | 1,562 | 12,858 |
+| [dream-num/univer](https://github.com/dream-num/univer) | TypeScript | 3 | 4,590 | 29,742 |
+| [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | TypeScript | 3 | 2,591 | 20,234 |
+| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | 3 | 2,405 | 54,051 |
+| [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | TypeScript | 3 | 2,253 | 13,232 |
+| [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | Python | 3 | 2,197 | 10,199 |
+| [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | TypeScript | 3 | 1,126 | 10,251 |
 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | 2 | 1,558 | 57,912 |
 | [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | Python | 2 | 1,543 | 6,688 |
-| [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | Python | 2 | 1,192 | 7,927 |
-| [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | TypeScript | 2 | 1,146 | 19,712 |
-| [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) | Python | 2 | 995 | 3,118 |
-| [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | TypeScript | 2 | 776 | 9,890 |
-| [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | TypeScript | 1 | 1,219 | 7,609 |
+| [google-research/paper-orchestra](https://github.com/google-research/paper-orchestra) | Python | 2 | 1,385 | 3,546 |
+| [Tencent/LoopForge](https://github.com/Tencent/LoopForge) | Go | 2 | 1,014 | 3,675 |
 
 ➡️ Last full weekly analysis: [2026-W46](reports/weekly/2026-W46.md) · [all reports](reports/weekly)
 
-_Tracking since 2026-10-01 · 48 day(s) of data · [raw data](data/trending.csv)_
+_Tracking since 2026-10-01 · 49 day(s) of data · [raw data](data/trending.csv)_
 <!-- TRACKER_END -->
 
 ## How it works
