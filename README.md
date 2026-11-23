@@ -7,87 +7,83 @@ Every morning a GitHub Actions workflow reads the GitHub trending page, looks up
 ## Live view
 
 <!-- TRACKER_START -->
-### 🔥 AI repos trending today · 2026-11-22
+### 🔥 AI repos trending today · 2026-11-23
 
 12 of 16 trending repositories are AI-related.
 
 | # | Repo | Language | ⭐ today | ⭐ total | Topics |
 |--:|---|---|--:|--:|---|
-| 1 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)<br><sub>Sponsor Star elementalsouls / Claude-BugHunter A Claude Code skill bundle for bug hunting …</sub> | Python | 1,803 | 16,629 | `ai-security` `anthropic` `application-security` `bug-bounty` |
-| 2 | [obra/superpowers](https://github.com/obra/superpowers)<br><sub>Sponsor Star obra / superpowers An agentic skills framework & software development methodo…</sub> | Shell | 883 | 323,969 | `ai` `brainstorming` `coding` `obra` |
-| 3 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)<br><sub>Star HKUDS / CLI-Anything "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: htt…</sub> | Python | 769 | 62,327 | – |
-| 4 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind)<br><sub>Star jingyaogong / minimind 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2…</sub> | Python | 488 | 68,331 | `artificial-intelligence` `large-language-model` |
-| 6 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)<br><sub>Star firecrawl / firecrawl Knowledge infrastructure to make your agents smarter. Search, s…</sub> | TypeScript | 1,006 | 206,490 | `ai` `ai-agents` `ai-crawler` `ai-scraping` |
-| 8 | [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino)<br><sub>Star openvinotoolkit / openvino OpenVINO™ is an open source toolkit for optimizing and dep…</sub> | C++ | 200 | 11,996 | `ai` `computer-vision` `deep-learning` `deploy-ai` |
-| 9 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)<br><sub>Sponsor Star cathrynlavery / diagram-design Editorial diagram design for Claude Code, Code…</sub> | HTML | 583 | 69,996 | `agent-skills` `claude-code` `codex` `data-visualization` |
-| 10 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)<br><sub>Star mvanhorn / last30days-skill AI agent skill that researches any topic across Reddit, X…</sub> | Python | 560 | 72,266 | `ai-prompts` `ai-skill` `bluesky` `claude` |
-| 11 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)<br><sub>Star google-labs-code / stitch-skills A library of Agent Skills designed to work with the …</sub> | TypeScript | 326 | 11,640 | – |
-| 12 | [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance)<br><sub>Sponsor Star mjmirza / app-store-compliance Avoid common App Store and Google Play rejecti…</sub> | Shell | 720 | 3,613 | `accessibility` `ai-agents` `android` `app-review-guidelines` |
-| 13 | [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre)<br><sub>Star Tracer-Cloud / opensre The open-source agent for CI/CD reliability.</sub> | Python | 450 | 14,136 | `alerting` `ci-cd` `cli` `datadog` |
-| 16 | [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip)<br><sub>Star zhouxiaoka / autoclip AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和…</sub> | Python | 683 | 13,086 | `ai-agent` `ai-video-editor` `content-repurposing` `desktop-app` |
+| 1 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)<br><sub>Sponsor Star elementalsouls / Claude-BugHunter A Claude Code skill bundle for bug hunting …</sub> | Python | 1,716 | 18,704 | `ai-security` `anthropic` `application-security` `bug-bounty` |
+| 2 | [obra/superpowers](https://github.com/obra/superpowers)<br><sub>Sponsor Star obra / superpowers An agentic skills framework & software development methodo…</sub> | Shell | 788 | 324,545 | `ai` `brainstorming` `coding` `obra` |
+| 3 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)<br><sub>Star HKUDS / CLI-Anything "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: htt…</sub> | Python | 699 | 63,129 | – |
+| 4 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind)<br><sub>Star jingyaogong / minimind 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2…</sub> | Python | 473 | 69,151 | `artificial-intelligence` `large-language-model` |
+| 6 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)<br><sub>Star firecrawl / firecrawl Knowledge infrastructure to make your agents smarter. Search, s…</sub> | TypeScript | 915 | 207,403 | `ai` `ai-agents` `ai-crawler` `ai-scraping` |
+| 8 | [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino)<br><sub>Star openvinotoolkit / openvino OpenVINO™ is an open source toolkit for optimizing and dep…</sub> | C++ | 158 | 12,181 | `ai` `computer-vision` `deep-learning` `deploy-ai` |
+| 9 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)<br><sub>Sponsor Star cathrynlavery / diagram-design Editorial diagram design for Claude Code, Code…</sub> | HTML | 518 | 70,623 | `agent-skills` `claude-code` `codex` `data-visualization` |
+| 10 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)<br><sub>Star mvanhorn / last30days-skill AI agent skill that researches any topic across Reddit, X…</sub> | Python | 668 | 73,069 | `agent-skills` `artificial-intelligence` `automation` `bot` |
+| 11 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)<br><sub>Star google-labs-code / stitch-skills A library of Agent Skills designed to work with the …</sub> | TypeScript | 494 | 12,084 | – |
+| 12 | [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance)<br><sub>Sponsor Star mjmirza / app-store-compliance Avoid common App Store and Google Play rejecti…</sub> | Shell | 621 | 4,392 | `accessibility` `ai-agents` `android` `app-review-guidelines` |
+| 13 | [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre)<br><sub>Star Tracer-Cloud / opensre The open-source agent for CI/CD reliability.</sub> | Python | 399 | 14,589 | `alerting` `ci-cd` `cli` `datadog` |
+| 16 | [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip)<br><sub>Star zhouxiaoka / autoclip AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和…</sub> | Python | 641 | 13,998 | `ai-agent` `ai-video-editor` `content-repurposing` `desktop-app` |
 
-### 📊 This week so far · 2026-W47
+### 📊 This week so far · 2026-W48
 
 #### Summary
 
-- **28** distinct AI repos trended over 7 day(s) (last week: 28)
-- AI share of all trending slots: **76%** (+7 pts vs last week)
-- Dominant language: **Python** (36% of AI repos)
-- Rising topics: `claude-code` (+3), `ai-agents` (+2), `android` (+2), `ios` (+2), `mcp-server` (+2)
-- New this week: `web-search`, `tiktok`, `subtitles`, `android`, `ios`
+- **12** distinct AI repos trended over 1 day(s) (last week: 28)
+- AI share of all trending slots: **75%** (-1 pts vs last week)
+- Dominant language: **Python** (50% of AI repos)
+- Rising topics: `nlp` (+1)
 
 #### Languages
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="charts/2026-W47-languages-dark.png"><img alt="Languages of trending AI repos" src="charts/2026-W47-languages.png"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="charts/2026-W48-languages-dark.png"><img alt="Languages of trending AI repos" src="charts/2026-W48-languages.png"></picture>
 
 | Language | Repos | Share | Last week |
 |---|--:|--:|--:|
-| Python | 10 | 36% | 6 |
-| TypeScript | 9 | 32% | 11 |
-| Go | 2 | 7% | 4 |
-| C++ | 2 | 7% | 2 |
-| Shell | 2 | 7% | 1 |
-| JavaScript | 1 | 4% | 1 |
-| Unspecified | 1 | 4% | 0 |
-| HTML | 1 | 4% | 0 |
+| Python | 6 | 50% | 10 |
+| Shell | 2 | 17% | 2 |
+| TypeScript | 2 | 17% | 9 |
+| C++ | 1 | 8% | 2 |
+| HTML | 1 | 8% | 1 |
 
 #### Topics
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="charts/2026-W47-topics-dark.png"><img alt="Topic movers" src="charts/2026-W47-topics.png"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="charts/2026-W48-topics-dark.png"><img alt="Topic movers" src="charts/2026-W48-topics.png"></picture>
 
 | Topic | Repos this week |
 |---|--:|
-| `claude-code` | 9 |
-| `mcp` | 7 |
-| `ai-agents` | 6 |
-| `codex` | 5 |
-| `agent-skills` | 4 |
-| `skills` | 3 |
-| `code-review` | 3 |
-| `mcp-server` | 3 |
-| `self-hosted` | 3 |
-| `claude` | 3 |
-| `agentic-workflow` | 2 |
-| `harness` | 2 |
+| `claude-code` | 3 |
+| `ai-agents` | 2 |
+| `nlp` | 2 |
+| `agent-skills` | 2 |
+| `tiktok` | 2 |
+| `ai-security` | 1 |
+| `bug-bounty` | 1 |
+| `claude-skills` | 1 |
+| `bugbounty` | 1 |
+| `hackerone` | 1 |
+| `security-tools` | 1 |
+| `web-security` | 1 |
 
 #### Most persistent AI repos
 
 | Repo | Language | Days trending | Stars gained | Total stars |
 |---|---|--:|--:|--:|
-| [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | TypeScript | 7 | 2,434 | 11,640 |
-| [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | Python | 6 | 6,971 | 16,629 |
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 6 | 4,085 | 72,266 |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 5 | 6,540 | 323,969 |
-| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 4 | 2,829 | 62,327 |
-| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | 4 | 1,765 | 68,331 |
-| [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) | C++ | 4 | 687 | 11,996 |
-| [dream-num/univer](https://github.com/dream-num/univer) | TypeScript | 3 | 4,590 | 29,742 |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | TypeScript | 3 | 3,072 | 206,490 |
-| [google-research/paper-orchestra](https://github.com/google-research/paper-orchestra) | Python | 3 | 2,909 | 4,726 |
+| [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | Python | 1 | 1,716 | 18,704 |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | TypeScript | 1 | 915 | 207,403 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1 | 788 | 324,545 |
+| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 1 | 699 | 63,129 |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 1 | 668 | 73,069 |
+| [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | Python | 1 | 641 | 13,998 |
+| [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) | Shell | 1 | 621 | 4,392 |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 1 | 518 | 70,623 |
+| [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | TypeScript | 1 | 494 | 12,084 |
+| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | 1 | 473 | 69,151 |
 
-➡️ Last full weekly analysis: [2026-W46](reports/weekly/2026-W46.md) · [all reports](reports/weekly)
+➡️ Last full weekly analysis: [2026-W47](reports/weekly/2026-W47.md) · [all reports](reports/weekly)
 
-_Tracking since 2026-10-01 · 53 day(s) of data · [raw data](data/trending.csv)_
+_Tracking since 2026-10-01 · 54 day(s) of data · [raw data](data/trending.csv)_
 <!-- TRACKER_END -->
 
 ## How it works
